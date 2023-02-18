@@ -1,0 +1,38 @@
+.recipe-list {
+  list-style: none;
+  
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background:#ffffff;
+}
+
+.wrapcontainer {
+  background-color:#2E4272;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container {
+  background-color:#ffffff;
+  display:block;
+  margin: auto;
+  padding: auto;
+  min-height: 100%;
+}
+
+.flex-item {
+  background-color:#7887AB;
+  flex-grow: 1;
+}
+
+.fixed {
+  border-radius: 15px 15px;
+  border: solid aliceblue;
+  border-width: 1px 1px;
+  border-style: solid;
+  padding: 1rem;
+  margin: 1rem;
+  background-color:#f1f3f8;
+}
