@@ -13,7 +13,7 @@ const RecipePagination = (props)=>{
     
 
     
-    const[totalpages,setTotalPages] = useState(Math.ceil((props.recipeIndices.length-1)/12));
+    const[totalpages,setTotalPages] = useState();
     
       //[pagedID,props.recipeIndices]
     
@@ -27,6 +27,7 @@ const RecipePagination = (props)=>{
                 
             });
             setPagedID(prevState=>recipearray);
+            setTotalPages(Math.ceil((props.recipeIndices.length-1)/12))
         };
         fetchPagedID();
     },[props.recipeIndices]);
@@ -35,7 +36,12 @@ const RecipePagination = (props)=>{
     
         let newpagenumber=1;
         let recipearray=[];
+        
+        console.log('recipe indicies',props.recipeIndices);
+        console.log('indicies size',props.recipeIndices.length);
+        console.log('total pages==',totalpages)
         if(event.target.textContent=='next' && page<totalpages){
+            console.log('go next!');
             newpagenumber=page+1;
             setPage((prevState)=>(prevState+1));
             recipearray=grabnewpagedarray(newpagenumber);
@@ -44,6 +50,7 @@ const RecipePagination = (props)=>{
             setPagedID(recipearray);
         }
         if(event.target.textContent=='prev' && page>1){
+            console.log('go previous!');
             newpagenumber=page-1;
             setPage((prevState)=>(prevState-1));
             recipearray=grabnewpagedarray(newpagenumber);

@@ -1,0 +1,1120 @@
+await DataStore.save(
+	new Recipes({
+		"name": "Hawaii Kalbi",
+		"image": "kalbi1.jpg",
+		"category": ['Dinner', 'Meats'],
+		"ingredients": ['3 lbs Kalbi short rib of beef', '1 cup shoyu', '1/2 cup Brown sugar', '1 cup water', '1 inches Fresh ginger', '8-9 clove Garlic, minced', '2 Tbsp Sesame oil', '1/4 cup mirin', '1/4 cup Rice wine', '1 tsp Black pepper', '6 Green onions', '1 Finely grated asian pear', '1 Finely grated kiwi', '0 Toasted sesame seeds for garnishing'],
+		"instructions": `1. Rinse beef ribs to remove bone fragments and set aside.
+ 2. Mix water, shoyu, brown sugar, mirin, rice wine, sesame oil, black pepper, ginger, green onions, grated pear, grated kiwi, and garlic in a large bowl or blender.
+ 3. Put meat in a container or ziploc bag and add marinade to cover. Seal and refrigerate overnight or up to 3 nights.
+ 4. Broil meat on high until desired doneness is reached.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Mochiko chicken",
+		"image": "mochiko_chicken.jpg",
+		"category": ['Dinner', 'Meats'],
+		"ingredients": ['2 lbs chicken', '4 tbsp Mochiko flour', '3 tbsp sugar', '2 tbsp Chopped green onion', '1 clove Chopped garlic', '8 tbsp cornstarch', '4 tbsp shoyu', '1 tsp salt', '2 eggs'],
+		"instructions": `1. Marinate the chicken by combining it with sugar, green onion, garlic, shoyu and salt in a container or ziploc bag. Let it marinate in the fridge overnight.
+ 2. In a bowl, mix flour, cornstarch, and eggs until the mixture has a batter-like consistency.
+ 3. Cut the chicken into bite-sized pieces and dip them into the batter.
+ 4. Transfer the chicken pieces immediately to hot oil.
+ 5. Fry the chicken until brown.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Rafute (Okinawan braised pork belly)",
+		"image": "rafute2.jpg",
+		"category": ['Dinner', 'Meats'],
+		"ingredients": ['3 lbs Pork belly, boneless, skin on', '6 cups water', '3 cups Katsuobushi (dried bonito flakes) or Hondashi soup stock', '1.5 cups awamori(okinawan distilled liquor, substitute with sake or vodka)', '0.75 cups Black sugar(substitute with muscovado sugar)', '1/2 cup Soy sauce (8 tbsp, divided)', '1.5 knob ginger'],
+		"instructions": `1. Wash the pork belly.
+ 2. Place the pork belly in a large pot and add cold water. Bring to a boil and boil for 1 minute, then discard the water.
+ 3. Rinse off any scum and foam from the pork, rinse the pot, and place the pork belly back in the pot. Fill it with cold water.
+ 4. Bring the pot to a boil, skim off any scum and foam, and reduce the heat to a simmer. Cook the pork uncovered for at least 1 to 1.5 hours. Add boiling water as needed to keep the pork fully covered.
+ 5. In a separate smaller pot, boil 4 cups of water. Add katsuobushi and let it simmer for 15 seconds. Turn off the heat and let the katsuobushi seep in the pot. Alternatively, you can use Hondashi soup stock to make the broth.
+ 6. Slice the ginger and cut it into thin strips. Soak them in water for 10-15 minutes to remove some spiciness. Drain well and set aside for garnishing later.
+ 7. After 1 to 1.5 hours of cooking the pork belly, transfer it to a plate and cover it with foil. Let it cool for about 5 minutes before slicing.
+ 8. Once the pork belly is cool enough to handle, slice it to the desired thickness and add it back to the pot.
+ 9. Strain the katsuobushi dashi into the pot with the pork belly.
+ 10. Add awamori, black sugar, and soy sauce to the pot, mixing the liquid to make sure the pork belly is fully covered with the sauce.
+ 11. Bring the pot to a gentle simmer, skim off any foam, and cover with a lid. Cook over medium-low heat for 2 hours, or until the pork is very tender and the skin/fat is gelatinous.
+ 12. Serve the pork belly on a plate and pour some of the braising liquid over it. Garnish with the ginger slices.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "",
+		"image": "no_pic_yet.jpg",
+		"category": ['Dinner', 'Meats'],
+		"ingredients": ['1 lb Thinly sliced pork belly', '1/4 cup shoyu', '2 Tbsp sake', '2 Tbsp mirin', '2 Tbsp Black sugar(substitute with muscovado sugar)', '2 cloves garlic', '1 tsp Grated ginger', '1 Green onion, sliced'],
+		"instructions": `1. In a large bowl, whisk together the soy sauce, sake, mirin, black sugar, minced garlic, and grated ginger until the sugar has dissolved.
+ 2. Add the thinly sliced pork belly to the marinade, making sure that each piece is coated evenly.
+ 3. Cover the bowl with plastic wrap and marinate the pork belly in the refrigerator for at least 1 hour, or up to overnight.
+ 4. When ready to cook, remove the pork belly from the marinade and discard the excess marinade.
+ 5. Heat a large skillet over medium-high heat. Add the pork belly and cook until browned and crispy, about 2-3 minutes per side.
+ 6. Serve the pork belly hot, garnished with thinly sliced green onion.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Rotisserie Ham",
+		"image": "ham.jpg",
+		"category": ['Dinner', 'Meats'],
+		"ingredients": ['7-9 lb Turkey', '1 Can (20oz) Pineapple, undrained', '1 cup Brown sugar', '1/4 tsp Ground cloves', '1 tbsp Dijon mustard', '1 tbsp Salted butter'],
+		"instructions": `1. Bring pineapples, mustard and sugar to a boil.
+ 2. Lower heat to medium, reduce by ⅓ about 4 to 6 minutes.
+ 3. Remove from heat. Stir in butter.
+ 4. Brush ham. Keep brushing while cooking.
+ 5. Ham needs to reach 140f internal temp at the thickest part.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Turkey Meatballs",
+		"image": "turkey_meatballs3.jpg",
+		"category": ['Dinner', 'Meats'],
+		"ingredients": ['2 lb Ground turkey', '1 cup panko', '2/3 cup Onion, minced', '1/2 cup Fresh parsley', '2 large eggs', '3 cloves garlic', '2 tsp Worcestershire sauce', '1/2 tsp Dried basil', '1/2 tsp Dried oregano', '0 Salt and pepper', '1/4 cup Olive oil'],
+		"instructions": `1. Dice the onion and mince the garlic.
+ 2. In a mixing bowl, combine ground turkey, Worcestershire sauce, eggs, onion, and garlic.
+ 3. Add the dried spices to the turkey mixture and mix well.
+ 4. Mix the panko breadcrumbs into the mixture last.
+ 5. Form the mixture into meatballs.
+ 6. Preheat the oven to 400 degrees Fahrenheit.
+ 7. Place the meatballs on a baking sheet or rack and bake for about 12 minutes or until desired browning is achieved.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Korokke",
+		"image": "korokke1.jpg",
+		"category": ['Dinner', 'Meats'],
+		"ingredients": ['2 lb Russet potatoes (about 4 potatoes)', '1 onion', '1/2 carrot', '2 Shiitake mushrooms', '2 Tbsp oil', '1 lb Ground beef', '1 large Egg (50g w/o shell)', '1 tsp salt', '1/4 tsp White pepper powder', '0 Black pepper', '1/2 cup All-purpose flour', '3 large eggs', '2 cups panko', '0 Tonkatsu sauce (for serving)'],
+		"instructions": `To Make Korokke Patties
+ 1. Peel and cut potatoes into quarters, boil until soft, drain, and lightly mash.
+ 2. Finely chop onion, carrot, and shiitake mushrooms and sauté in a skillet until soft.
+ 3. Add cooked meat, salt, white pepper, and black pepper to the skillet, cook until done, and drain.
+ 4. Mix the mashed potatoes and drained mixture together, add an egg, and combine.
+ 5. Shape the mixture into patties and refrigerate for 30 minutes to prevent them from exploding while frying.
+ 6. After 30 minutes, coat each patty with flour, egg, and panko, in that order.
+ 7. Cover with plastic and refrigerate for 30 minutes.
+ 8. Deep fry Korokke until they are golden brown. The inside is already cooked, so all you need to do is to fry them until nicely brown.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Butter Chicken",
+		"image": "butter_chicken1.jpg",
+		"category": ['Dinner', 'Meats'],
+		"ingredients": ['1 Tbsp oil', '1 Tbsp butter', '1 medium Onion, diced', '1 tsp ginger', '2-3 cloves garlic', '1-1/2 lbs Boneless chicken breast, cut into ¾ inch chunks', '4 Tbsp Tomato paste (or 8oz can tomato sauce)', '1 Tbsp Garam masala', '1 tsp Chili powder (or paprika)', '1 tsp Fenugreek', '1 tsp cumin', '1 tsp salt', '1/4 tsp Black pepper', '1 cup Heavy cream'],
+		"instructions": `1. Heat large skillet over medium-high heat. Add oil, butter, and onions until golden, about 3-4 minutes. Add ginger and garlic and let cook for 30 seconds. Stir so it doesn’t burn.
+ 2. Add chicken, tomato paste, and spices. Cook for 5-6 minutes or until everything is cooked.
+ 3. Add heavy cream and simmer for 8-10 minutes, stirring occasionally. Serve over rice.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Buttermilk Fried Chicken Tenders",
+		"image": "buttermilk_chicken_tenders.jpg",
+		"category": ['Dinner', 'Meats'],
+		"ingredients": ['1 lbs chicken', '1/2 cup buttermilk', '1/2 cup panko', '1/2 cup All-purpose flour', '1/4 tsp Baking powder', '1 tsp salt', '1/4 tsp Black pepper', '1 tsp paprika', '1/4 tsp Garlic powder', '3 Tbsp Melted butter, or oil spray'],
+		"instructions": `1. Place chicken in a ziplock bag and pour the buttermilk into the bag. Squeeze air out and seal the bag. Let marinate in the fridge for 15-30 minutes.
+ 2. In a shallow bowl combine the panko, flour, baking powder, and spices.
+ 3. Remove the chicken strips from the buttermilk with a fork, shake off excess buttermilk, and dredge in the breadcrumb mixture to coat on all sides.
+ 4. Preheat the air fryer to 350 F if necessary.
+ 5. Put the chicken in the air fryer and air fry for 10-12 minutes, cook until the internal temperature reads 175F and the chicken tenders are golden brown and crispy.
+ 6. **Bonus** pause after 4 minutes and brush chicken with melted butter then turn it over and brush butter on the other side.
+ 7. Serve with your favorite dipping sauce.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Meat Jun",
+		"image": "meatjun1.jpg",
+		"category": ['Dinner', 'Meats'],
+		"ingredients": ['3/4 cup shoyu', '1/2 cup water', '3/4 cup sugar', '2 cloves Minced garlic', '1/3 cup shoyu', '1 Tbsp Rice wine vinegar', '1 tsp Sesame oil', '1 tsp gochujang/chili oil', '1 lbs Thinly sliced beef', '8 eggs Flour, as needed'],
+		"instructions": `1. In a mixing bowl, combine the first four ingredients and mix well until sugar has dissolved.
+ 2. Add meat to the marinade and cover with a plastic wrap or towel. Let it marinate in the fridge for 1-2 hours.
+ 3. After the meat has marinated, whisk eggs in a large bowl.
+ 4. Add enough flour to a plate to dredge the meat in.
+ 5. Heat and oil a non-stick pan over medium heat.
+ 6. Dredge the meat first in flour, then cover it in the whisked eggs.
+ 7. Quickly transfer the meat to the pan.
+ 8. Repeat the same process until the pan is slightly full.
+ 9. Cook the meat for 1-2 minutes or until the bottom becomes lightly golden brown.
+ 10. Flip and cook for another 1-2 minutes.
+ 11. Remove the meat from the pan after all sides have been cooked.
+ 12. For the dipping sauce, combine the remaining shoyu, rice vinegar, sesame oil, and gochujang or chili oil. Whisk to combine.
+ 13. Cut the meat into thin strips and serve with dipping sauce on the side.
+ 14. If you make a large batch, you can freeze it for up to one month.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Loco moco",
+		"image": "locomoco1.jpg",
+		"category": ['Dinner', 'Meats'],
+		"ingredients": ['1 onion', '1 lb Ground beef Black pepper, to taste', '2 tsp Garlic powder', '1/2 cup panko', '2 Button mushrooms, sliced Loco moco gravy', '4 eggs'],
+		"instructions": `1. Chop the onion into small pieces.
+ 2. In a mixing bowl, combine the chopped onion with the ground beef.
+ 3. Add black pepper, garlic powder, and panko to the ground beef and mix thoroughly.
+ 4. Knead the meat mixture to ensure that all ingredients are well combined.
+ 5. Shape the meat mixture into about 5 patties of equal size.
+ 6. Heat a frying pan over medium-high heat.
+ 7. Fry the patties in the frying pan until they are browned on both sides, adding sliced mushrooms halfway through the cooking time.
+ 8. In a separate pan, sauté the remaining chopped onion until softened and lightly browned.
+ 9. Make the loco moco gravy using your preferred recipe or mix.
+ 10. Fry the eggs over easy in a separate pan.
+ 11. To serve, place one cooked patty on a plate, then top with sautéed onions and a fried egg.
+ 12. Pour the loco moco gravy over the egg and patty.
+ 13. Repeat with the remaining patties, eggs, onions, and gravy as desired.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Spam Cabbage",
+		"image": "spam_cabbage.jpg",
+		"category": ['Stews'],
+		"ingredients": ['1 head Napa cabbage', '1-2 can spam', '1/2 cup shoyu', '1/4 cup water', '4-5 cloves garlic', '0 Pepper (enough to make lots of black spots)', '1-2 onions', '0 Oyster sauce'],
+		"instructions": `1. Fry spam in a large pan until crispy.
+ 2. Add garlic to the pan and continue frying until crispy.
+ 3. Add cabbage, shoyu, onion, pepper, water, and oyster sauce to the pan.
+ 4. Bring the mixture to a boil and continue cooking until the cabbage is tender.
+ 5. If desired, mix in more oyster sauce before serving.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Kalua Pig Cabbage",
+		"image": "kaluapigcabbage1.jpg",
+		"category": ['Stews'],
+		"ingredients": ['1 head Napa cabbage', '1 package May’s Kalua Brand Pork', '1/2 cup shoyu', '1/4 cup water', '4-5 cloves garlic', '0 Pepper (enough to make lots of black spots)', '1-2 onions', '0 Red chili pepper flakes'],
+		"instructions": `1. Brown the Kalua Pork, and cook with onions until onions are glossy
+ 2. Add cabbage, shoyu, pepper, water, and garlic. Boil until the cabbage is soft.
+ 3. Add red chili pepper flakes to taste.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Grandma’s Japanese Mabo Tofu",
+		"image": "mabo_tofu.jpg",
+		"category": ['Stews'],
+		"ingredients": ['3 Tbsp Minced garlic', '1 Tbsp Hot bean paste', '1 Tbsp Oyster sauce', '1 Tbsp mirin', '2 Tbsp shoyu', '1 Tbsp Sesame oil', '1 cup Chicken stock or water (1 tsp paste)', '2 Tbsp Corn starch', '2 Tbsp Minced ginger (1 tsp powder)', '2 block Tofu (20 oz or less)', '1 lb Ground beef'],
+		"instructions": `1. In a mixing bowl, combine all ingredients except for the tofu and ground beef.
+ 2. Brown the ground beef in a separate pan.
+ 3. Add the sauce mixture to the ground beef and simmer in a pot over medium heat.
+ 4. Rinse the tofu and add it to the pot with the ground beef and sauce mixture.
+ 5. Stir the mixture to break up the tofu into smaller pieces.
+ 6. Add chicken stock or water as needed to adjust the consistency of the mixture.
+ 7. Season with salt to taste.
+ 8. Continue to simmer the mixture over low heat until the tofu has absorbed the flavors of the sauce and the mixture is heated through.
+ 9. Serve hot over rice or with your desired side dishes.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Zippy’s Copycat Chili",
+		"image": "chili.jpg",
+		"category": ['Stews'],
+		"ingredients": ['1 lb Ground beef', '5 oz Pochos (portuguese sausage mild)', '1 Medium onion, chopped', '4 Medium stalks celery, chopped', '1 Green bell pepper, chopped', '3 Tbsp Chili powder', '1 Tbsp cumin', '1 Tbsp oregano', '4 cloves Garlic, minced', '1 Tbsp Worcestershire sauce', '6 oz Tomato paste', '1 can Pinto beans, drained', '1 can Kidney beans, drained', '14 oz Chicken broth', '2 leaves Bay', '3 Tbsp mayo', '1 tsp salt'],
+		"instructions": `1. Blend the pochos sausage in a food processor until it matches the consistency of ground meat.
+ 2. Dice the onion, celery, and bell pepper into small pieces.
+ 3. In a large pot or Dutch oven, heat a little bit of oil over medium-high heat and sauté the diced onion, celery, and bell pepper until soft.
+ 4. Add the ground beef and pochos sausage to the pot and cook until just browned, breaking up any large chunks of meat with a wooden spoon or spatula.
+ 5. Add chili powder, cumin, oregano, and garlic to the pot and sauté until fragrant, stirring constantly.
+ 6. Stir in the tomato paste, chicken broth, drained beans, Worcestershire sauce, and bay leaves. Give everything a good stir.
+ 7. Cover the pot and bring the mixture to a simmer over low heat.
+ 8. Let the mixture cook for at least 30 minutes, stirring occasionally.
+ 9. Remove the bay leaves from the pot.
+ 10. Serve hot with your desired toppings, such as grated cheese, sour cream, or chopped fresh cilantro.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Da Bes Hawaiian Beef Stew",
+		"image": "beef_stew.jpg",
+		"category": ['Stews'],
+		"ingredients": ['2 lbs Boneless chuck roast', '1 medium Onion, chopped', '2 Tbsp Tomato paste', '3 Tbsp flour', '1 leaf bay', '3 medium Carrots, peeled and chopped', '2 medium Potatoes, peeled and chopped', '4 stalks Celery, chopped', '15 oz Canned stewed tomatoes', '15 oz Canned tomato sauce', '2 Tbsp oil', '0 Salt and pepper to taste'],
+		"instructions": `1. Heat oil in a large pot over medium-high heat.
+ 2. Working in small batches in a single layer, brown the beef in the pot, making sure each piece is thoroughly caramelized. When all the meat is brown, set it aside in a bowl.
+ 3. In the same pot, add the chopped onion and brown it for about 3 minutes.
+ 4. Add the tomato paste to the pot and cook for 1 minute.
+ 5. Add the flour to the pot and cook for 1 minute, stirring constantly.
+ 6. Add the 2 pounds of browned beef back into the pot, and season to taste with salt and coarse ground black pepper.
+ 7. Add a bay leaf to the pot.
+ 8. Add enough water so that the browned beef is just covered.
+ 9. Bring the mixture to a boil, then turn the heat down to medium-low and simmer covered for 2 hours.
+ 10. Add the carrots, potatoes, celery, diced tomato, and tomato sauce to the pot and continue to simmer until the vegetables are tender.
+ 11. Finish with some fresh cracked black pepper.
+ 12. Serve hot with rice and/or poi.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Beef Stew with Red Wine",
+		"image": "no_picture_yet.jpg",
+		"category": ['Stews'],
+		"ingredients": ['1 1/2 tsp Sea salt', '1 tsp Dried crushed rosemary', '1 tsp Dried thyme', '1 tsp Dried marjoram', '1 tsp paprika', '1/2 tsp Black pepper', '2 Tbsp Vegetable oil', '2 lbs Beef stew meat', '1 cup Diced white or yellow onion', '2 Stalks Celery, chopped', '1 tsp Minced garlic', '3 Tbsp Tomato paste', '1 cup Medium to full-bodied red wine (Cabernet, Zinfandel, or Merlot)', '2 cups Beef broth', '1 Tbsp Worcestershire sauce', '1 leaf bay', '1 lb Baby yellow or red potatoes, halved and quartered', '3-4 Carrots, peeled and roughly chopped', '1 cup Frozen peas, no need to thaw', '1/4 cup Fresh Italian parsley', '1/4 cup water', '2 Tbsp cornstarch'],
+		"instructions": `1. Cut any large pieces of stew meat into smaller bite-size pieces, if necessary.
+ 2. Combine the salt, rosemary, thyme, marjoram, paprika, and black pepper in a small bowl.
+ 3. Heat the oil in a large thick pot over medium-high heat.
+ 4. Add about half of the meat to the pan, or as much as you can without overcrowding.
+ 5. Sprinkle 2 teaspoons of the spice mixture over the meat and sauté the beef until nicely browned.
+ 6. Use a slotted spoon to transfer the beef to a dish and set aside.
+ 7. Repeat with the remaining beef, adding additional oil if needed, and season with 2 more teaspoons of the spice mixture.
+ 8. Reserve remaining spice mixture for later.
+ 9. Add additional oil to the pan if needed and add the onion, celery, and garlic. Cook, stirring occasionally, until softened.
+ 10. Add the tomato paste and stir until well combined.
+ 11. Add the red wine and increase the heat to bring mixture to a boil.
+ 12. Add the beef broth, Worcestershire sauce, remaining spice mix, and the bay leaf.
+ 13. Add the beef and all the juices that have accumulated back to the pot and bring to a boil.
+ 14. Reduce heat to LOW, cover, and simmer for 1.5 hours, or until the beef is fork tender.
+ 15. Add the potatoes and carrots and raise the heat to bring the liquid to a boil.
+ 16. Reduce the heat to LOW, cover, and simmer for another 30 to 40 minutes until the veggies are fork tender.
+ 17. Stir in the frozen peas and parsley.
+ 18. Combine the water and cornstarch in a measuring cup or small bowl and stir into the beef stew.
+ 19. Continue cooking uncovered, until thickened.
+ 20. Discard the bay leaf before serving.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Three Cheese Eggplant Lasagna",
+		"image": "eggplant_lasagna2.jpg",
+		"category": ['Pasta'],
+		"ingredients": ['2 eggplants', '1 Tbsp Olive oil', '1 lb Ground beef', '1/2 cup Onion, diced', '2 tsp Garlic, minced', '24 oz Ricotta cheese', '1/2 tsp Italian seasoning', '1 egg', '1/2 cup Grated parmesan cheese', '2 cups Mozzarella balls', '1 Tbsp parsley', '0 Salt and pepper to taste'],
+		"instructions": `1. Preheat your oven to 375°F and spray a sheet pan with cooking spray.
+ 2. Cut the eggplants into 1/2-inch slices and brush 2 teaspoons of olive oil over the slices. Season with salt and pepper.
+ 3. Roast the eggplant slices in the oven for 15-20 minutes until tender and browned. If there is any excess moisture on the cooked eggplant, blot it dry with a paper towel.
+ 4. While the eggplant is roasting, prepare the sauce by heating olive oil in a large pan over medium heat.
+ 5. Add ground beef to the pan and season with salt and pepper to taste. Cook for 5-6 minutes, breaking the meat up with a spatula until browned and cooked through.
+ 6. Add onion to the pan and cook for another 3-4 minutes until softened. Add garlic and cook for 30 seconds.
+ 7. Stir in marinara sauce and bring to a simmer. Cook for 5 minutes.
+ 8. In a separate bowl, combine ricotta cheese, Italian seasoning, egg, parmesan cheese, salt and pepper.
+ 9. Coat a 2 or 3 quart baking dish with cooking spray.
+ 10. Place 1/4 of the sauce in the bottom of the dish. Add 1/3 of the eggplant slices on top. Spread 1/3 of the ricotta mixture over the eggplant then top with 1/3 of the mozzarella cheese. Repeat the layers, ending with the mozzarella cheese.
+ 11. Cover and bake for 30 minutes. Uncover and bake for an additional 10 minutes.
+ 12. Sprinkle with parsley, then let stand for 7-10 minutes. Cut into slices and serve.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Fettuccine alfredo",
+		"image": "alfredo.jpg",
+		"category": ['Pasta'],
+		"ingredients": ['1 lb Fettuccine pasta', '4-6 tbsp butter', '3 cloves Garlic (minced)', '1.5 cup Heavy cream', '1/4 tsp salt', '1.25 cup Shredded parmesan', '1/4 tsp pepper', '2 tbsp parsley'],
+		"instructions": `1. Cook pasta according to package instructions. Reserve 1/2 cup of the pasta water before draining.
+ 2. In a large pan, melt butter over medium heat. Add garlic and cook for 1-2 minutes until fragrant.
+ 3. Pour heavy cream into the pan and stir to combine with the garlic and butter.
+ 4. Allow the cream to reduce for 5-8 minutes, stirring occasionally.
+ 5. Add half of the grated Parmesan cheese to the pan and whisk until melted and well combined.
+ 6. Add the cooked pasta to the sauce and toss to coat the pasta evenly.
+ 7. Add the remaining Parmesan cheese to the pan and stir to combine.
+ 8. If the sauce is too thick, gradually add the reserved pasta water, 1 tablespoon at a time, until the desired consistency is reached.
+ 9. Serve immediately, garnished with additional grated Parmesan cheese and chopped parsley, if desired.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Spaghetti Sauce",
+		"image": "spaghetti.jpg",
+		"category": ['Pasta'],
+		"ingredients": ['1 lb Ground beef', '0 Salt and black pepper, to taste', '1 medium Onion, chopped', '15 oz Tomato sauce', '6 oz Tomato paste', '1/2 tsp Italian seasoning', '1 Tbsp Dried parsley flakes', '1 tsp Garlic powder', '0 Crushed red pepper flakes, to taste', '1 Tbsp Worcestershire sauce', '1 Tbsp Granulated sugar', '1 cup water', '1/4 cup Fresh basil leaves (optional)', '0 Spaghetti noodles, for serving'],
+		"instructions": `1. Season ground beef with salt and pepper.
+ 2. In a large skillet, brown the beef over medium-high heat. Drain excess grease.
+ 3. Add chopped onion to the skillet and saute until the onion is soft and translucent.
+ 4. Add tomato sauce, tomato paste, Italian seasoning, parsley, garlic powder, crushed red pepper, Worcestershire sauce, and sugar to the skillet.
+ 5. Stir well to combine all ingredients and bring to a boil.
+ 6. Add water and stir well.
+ 7. Reduce heat to low and let the sauce simmer for 30 minutes, stirring occasionally.
+ 8. Add chopped basil to the sauce before serving, if desired.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Stuffed Shells with Ricotta & Spinach",
+		"image": "stuffed_shells.jpg",
+		"category": ['Pasta'],
+		"ingredients": ['1 lb Baby spinach', '500 gram Conchiglioni pasta', '12 oz Ricotta cheese', '5 oz Pistachio pesto', '0 Garlic', '25.5 oz Marinara sauce', '0.25 oz Basil', '2 oz Grated parmesan cheese', '0 Salt and pepper', '0 Olive oil', '0 Chile flakes (optional)'],
+		"instructions": `1. Bring a pot of salted water to boil.
+ 2. Add spinach and cook until just wilted, 30 seconds to 1 minute. Use a slotted spoon to transfer spinach to colander to drain and cool slightly. (Keep water boiling).
+ 3. Place drained spinach leaves in a kitchen towel and wring out any excess liquid.
+ 4. Add pasta to the pot of boiling water and cook until al dente, 10 minutes or 1 minute less than package instructions. Drain and rinse with cold water.
+ 5. In a large bowl, combine the ricotta with the pesto. Season to taste with salt and pepper.
+ 6. Roughly chop wilted spinach, and add to the mixture, stirring until combined.
+ 7. Chop 3 cloves of garlic. In a large skillet over medium-high heat, warm 2 tablespoons olive oil. When oil is hot, add garlic and cook until fragrant, 30 seconds to 1 minute.
+ 8. Add marinara sauce and pinch of chile flakes. Bring sauce to a simmer, and cook until the flavors combine, 6 minutes. Season to taste with salt.
+ 9. Stuff each shell with 1 tablespoon of filling.
+ 10. Nestle the filled shells into the marinara sauce.
+ 11. Cover and simmer until the shells are warmed through, 5 minutes.
+ 12. Pick the basil, discard the stems, and tear the leaves.
+ 13. Spoon the shells into shallow bowls, sprinkle with Parmesan and torn basil leaves, and serve warm.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Homemade Cheeseburger Macaroni",
+		"image": "cheesy_mac.jpg",
+		"category": ['Pasta'],
+		"ingredients": ['1 lb Ground beef', '1 Tbsp oil', '1 small Onion, finely chopped', '3 Tbsp Tomato paste', '1.5 tsp Sweet paprika', '1 tsp Onion powder', '1 tsp Garlic powder', '1 tsp salt', '1 tsp sugar', '1/2 tsp Chili powder', '1/2 tsp Freshly ground black pepper', '2 Tbsp All-purpose flour', '2 cups Whole milk', '1.75 cup Beef broth', '2 cups Dried whole wheat elbow macaroni', '2 cups Shredded cheddar cheese'],
+		"instructions": `1. Brown the ground beef in a large pot until it's no longer pink.
+ 2. Add the onions and cook until they're softened, which should take around 5 minutes.
+ 3. Add the tomato paste, seasonings, flour, and broth to the pot, stirring until they're combined.
+ 4. Pour in the milk and stir to incorporate it into the mixture.
+ 5. Add the macaroni to the pot, bringing it to a boil before reducing it to medium-low heat. Cover the pot and let it simmer for 10-12 minutes, or until the macaroni is cooked to your preferred level of doneness. Check it at 9 minutes for al dente.
+ 6. Once the macaroni is done, remove the pot from the heat and stir in the cheddar cheese until it's fully melted.
+ 7. Serve the dish immediately, optionally garnished with chopped fresh parsley.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Omurice",
+		"image": "no_picture_yet.jpg",
+		"category": ['Special Dinners'],
+		"ingredients": ['10.5 oz chicken', '2 tsp shoyu', '2 tbsp oil', '7 oz onion', '21 oz Cooked rice', '4 tbsp ketchup', '2 tbsp Oyster sauce', '0 Black pepper', '6 eggs', '2 tbsp cream', '2 pinch salt', '2 tbsp butter'],
+		"instructions": `1. Cut the chicken into bite-sized cubes and place it in a bowl. Pour shoyu over the chicken to marinate for 10-15 minutes.
+ 2. Crack the eggs into a separate bowl, add a pinch of salt and cream, and whisk the mixture together.
+ 3. Heat some oil in a pan over medium heat. Add sliced onions to the pan and sauté until translucent and slightly browned.
+ 4. Increase the heat to medium-high and add the marinated chicken to the pan. Stir-fry the chicken until no raw sides are visible.
+ 5. Add cooked rice to the pan and break any clumps with a spatula. Continue to stir-fry for 2-3 minutes to warm the rice.
+ 6. Pour ketchup and oyster sauce over the rice and chicken mixture. Stir well to coat evenly and cook until the ketchup starts to caramelize, about 3-5 minutes. Add black pepper to taste.
+ 7. Plate the rice mixture in a serving bowl.
+ 8. In a separate pan, make an omelet with the egg mixture from step 2. Once cooked, place the omelet on top of the rice mixture.
+ 9. Serve hot and enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Pizza Sauce",
+		"image": "no_picture_yet.jpg",
+		"category": ['Special Dinners'],
+		"ingredients": ['2 Tbsp Olive oil', '1/3 cup Onion, chopped', '3 cloves garlic', '3 Tbsp Tomato paste', '2 tsp Dried oregano', '1 tsp Dried basil', '1/2 tsp Garlic powder', '1-1/4 tsp salt', '1/8 tsp Crushed red pepper', '28 oz Canned whole tomatoes', '1/2 tsp sugar'],
+		"instructions": `1. Begin by preparing the aromatics: finely chop the onions and smash the garlic cloves.
+ 2. In a small bowl, combine the oregano, basil, garlic powder, salt, and crushed red pepper. Mix thoroughly.
+ 3. Heat oil in a medium-sized pan over medium heat. Once hot, add the chopped onions and sauté for 3-4 minutes until they turn a light brown color.
+ 4. Next, add the minced garlic and all of the spices to the pan. Stir and sauté for 1 minute until the mixture becomes fragrant.
+ 5. Add the tomato paste to the pan and spread it evenly. Allow it to heat up for a few seconds.
+ 6. Pour the canned whole tomatoes into the pan, breaking them up into smaller pieces as much as possible. Let the mixture simmer for about 30 minutes, stirring occasionally.
+ 7. If needed, add sugar to taste.
+ 8. Use the sauce for pizza. This recipe should yield enough sauce for approximately 4 medium-sized pizzas. Store any unused sauce in the refrigerator for up to 3-5 days or in the freezer for up to 3 months.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Best Pizza Ever",
+		"image": "no_picture_yet.jpg",
+		"category": ['Special Dinners'],
+		"ingredients": ['16 oz Ball of pizza dough', '1 Tbsp Olive oil', '1 cup Pizza sauce', '3 oz Thinly sliced mozzarella', '5 oz Shredded mozzarella', '2.5 oz Pepperoni', '2 Tbsp Shredded parmesan', '1/4 lb Sausage'],
+		"instructions": `1. Follow any prep instructions for you ball of pizza dough. We would highly recommend using a bread machine for this.
+ 2. Cook the sausage in a skillet until it is nearly done. We will finish cooking it in the oven later.
+ 3. Preheat the oven to 400 degrees F
+ 4. Roll out the dough to the desired shape and size of your pizza. Shape the crusts thicker than the middle of the dough. Place pizza on a baking pan.
+ 5. Let the dough rest for 30 minutes.
+ 6. Spread the pizza sauce on the pizza. 
+ 7. Add thinly sliced mozzarella to the pizza.
+ 8. Evenly spread the shredded mozzarella on top.
+ 9. Add sausage, pepperoni, and any other toppings on the pizza. You might add onions, mushrooms, olives, bacon.
+ 10. Sprinkle the parmesan on top of everything.
+ 11. Bake for 20 minutes until the toppings look done and crust is golden.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Miso Glazed Japanese Eggplant",
+		"image": "no_picture_yet.jpg",
+		"category": ['Special Dinners'],
+		"ingredients": ['2 tbsp mirin', '2 tbsp sake', '1/4 cup Shiro miso', '1 tbsp sugar', '1 tsp Sesame oil', '1 pinch salt', '4 Japanese eggplant', '0 Vegetable oil', '0 Toasted sesame seeds', '2 tbsp Green onion'],
+		"instructions": `1. Slice the eggplant into rounds.
+ 2. Place the eggplant rounds in a colander and sprinkle with salt. Let sit for 30 minutes to draw out excess water and reduce bitterness.
+ 3. In a small bowl, mix miso, mirin, and sugar to make a sauce. Set aside.
+ 4. Heat oil in a frying pan over medium heat.
+ 5. Add eggplant and fry until soft and lightly browned on both sides.
+ 6. Reduce heat to low, add the miso sauce to the pan and quickly stir to coat the eggplant evenly.
+ 7. Remove from heat and serve hot as a side dish or over rice.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Lion’s mane crab cakes",
+		"image": "no_picture_yet.jpg",
+		"category": ['Special Dinners'],
+		"ingredients": ['8 oz Lion mane mushroom', '1 egg', '1/2 cup panko', '1/4 cup Onion (finely diced)', '1 tbsp mayo', '1 tsp Worcestershire sauce', '3/4 tsp paprika', '1 tsp Dijon mustard', '1 tsp parsley', '1/4 tsp salt', '1/4 tsp Black pepper', '2-3 tsp oil', '1/4 cup mayo', '1 tbsp relish', '1/4 tsp paprika'],
+		"instructions": `1. Shred the mushroom in a bowl.
+ 2. In a large mixing bowl, combine the egg, mayo, onion, Worcestershire sauce, paprika, Dijon mustard, parsley, salt, and pepper. Mix until all ingredients are well incorporated.
+ 3. Add the shredded mushrooms to the bowl and mix well.
+ 4. Stir in the panko breadcrumbs until the mixture is fully combined.
+ 5. Form the mixture into 3-4 patties, making them about ½ to ¾ inch thick.
+ 6. Heat the oil in a frying pan over medium-high heat.
+ 7. Place the patties in the pan and cook for about 2-3 minutes per side, or until they are golden brown and cooked throughout.
+ 8. Serve your delicious mushroom patties hot, and enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Roasted Beef Tenderloin with Beer Horseradish Sauce and Pilsner Mushrooms",
+		"image": "no_picture_yet.jpg",
+		"category": ['Special Dinners'],
+		"ingredients": ['00 Beer Horseradish sauce', '1/4 cup Pilsner beer', '1/4 cup Horseradish, prepared', '1/3 cup Sour cream', '1/2 tsp Kosher salt', '0 Black pepper', '00 Roasted Beef Tenderloin and Pilsner Mushrooms', '2 tbsp Canola oil', '3 lb Boneless beef tenderloin', '2.5 cup Crimini mushrooms, halved and quartered', '1/2 cup Pilsner beer', '0 Olive oil', '0 Salt and pepper to taste'],
+		"instructions": `1. Make the Horseradish Sauce:
+ * Use a small saucepan, combine the pilsner and horseradish. Bring to a low boil and reduce to a simmer.
+ * Simmer for 5 minutes so that the alcohol cooks out, and then remove from heat. Let it cool for about 10 minutes.
+ * In a small bowl, whisk together the beer and horseradish mixture, sour cream, salt and black pepper until smooth and creamy. Transfer to an airtight container and refrigerate until you are ready to serve.
+ 2. Cook the Beef Tenderloin:
+ * Preheat the oven to 475 F.
+ * Heat a large cast iron skillet over medium high heat.
+ * Season the beef tenderloin with salt and pepper.
+ * Once the pan is hot, add beef to the pan. Sear beef on all sides. Remove beef.
+ * Lower heat and then add mushrooms. Cook for 4-6 minutes. Season with salt and pepper.
+ * Add the beer and bring to a low boil. Reduce heat to a simmer and evaporate beer.
+ * Add the beef back to the pan and place the entire pan into the oven.
+ * Roast for 45-50 minutes until center is 120-125F for medium rare.
+ * Remove pan from heat and remove beef from pan. Let the beef rest for 15 minutes, slice as desired.
+ 3. Serve:
+ * Serve the sliced beef with the mushroom sauce on top or on the side.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Comfort-food Breakfast Burrito",
+		"image": "breakfast_burrito.jpg",
+		"category": ['Breakfast'],
+		"ingredients": ['1 lbs Pork sausage', '1/2 cup Yellow onion', '1/4 cup Fresh tomatoes', '1 Tbsp Jalapenos', '10 Tortillas, 6 inches', '9 eggs', '6 oz American cheese (12 slices)', '1/2 cup salsa'],
+		"instructions": `1. Dice the onions, tomatoes, and jalapenos.
+ 2. Crumble the pork sausage and fry it in a pan until it becomes small pieces. Drain excess grease.
+ 3. Place the drained sausage in a frying pan, and add the diced onion, jalapenos, and tomatoes. Heat on medium until everything is heated through, stirring frequently.
+ 4. Beat 2 cups of eggs and add them to the pan with the sausage mixture. Cook until the eggs are done, then remove from heat.
+ 5. To assemble the breakfast burritos, place two tablespoons of the sausage and egg mixture onto each tortilla, add a portion of the torn American cheese on top, and roll the tortilla.
+ 6. You can wrap the burritos in plastic and store them in the fridge or freezer to heat up later in the microwave.
+ 7. Serve with your favorite taco or picante sauce and toppings such as avocado and sour cream.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Whole Wheat Burger/Hot Dog Buns",
+		"image": "no_picture_yet.jpg",
+		"category": ['Bread Machine Recipes'],
+		"ingredients": ['1 cup water', '435.5 grams Whole wheat flour (3.25 cups)', '2 Tbsp oil', '1 egg', '3.28 grams Lecithin (1.5% of flour weight)', '0.25 cup honey', '1 tsp salt', '1 Tbsp Active dry yeast (or instant yeast)'],
+		"instructions": `Transform plain dough into buns that are way better than store-bought with these simple steps:
+ 1. Gather all the ingredients and line them up in the order that your bread machine requires.
+ 2. Put the ingredients in the bread machine, set the dough cycle, and let the machine work its magic. It's so easy that you'll have your dough ready in no time!
+ 3. Pour the dough out onto a lightly floured surface.
+ 4. Get your hands ready to shape the dough! Divide it into 8-10 pieces depending on whether you want hot dog or hamburger buns.
+ 5. Start shaping the dough into the desired shape of the bun you want.
+ 6. Place the buns on a greased cookie sheet and cover them up. Let them rise for 30 to 40 minutes, so they can get fluffy and bigger.
+ 7. Get your oven ready by preheating it to 375 degrees. Then bake the buns for 12-15 minutes, or until they turn a beautiful golden color.
+ 8. Last step, let your buns cool on a wire rack before slicing them open for the perfect hot dog or hamburger experience.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Sourdough bread (1 lb loaf)",
+		"image": "no_picture_yet.jpg",
+		"category": ['Bread Machine Recipes'],
+		"ingredients": ['1 tsp Active dry yeast', '1 2/3 cup flour', '1 tsp salt', '1 1/3 cup Sourdough starter', '1 tbsp Vegetable oil', '3-4 tbsp Lukewarm water', '0 *Replace water with oil for crustier bread'],
+		"instructions": `1. Gather all your ingredients and mix them together in the bread machine.
+ 2. Set the machine to the French bread setting, and let it start mixing.
+ 3. After about 10 minutes of mixing, check the dough consistency. It should be smooth, slightly sticky, and pulling away from the sides of the bread machine. If the dough looks dry or crumbly, add a tablespoon of water at a time until it comes together.
+ 4. Let the bread machine finish its cycle, allowing the dough to rise and bake according to the French bread setting.
+ 5. Once the bread is done, carefully remove it from the bread machine and transfer it to a wire rack to cool.
+ 6. Slice and enjoy your freshly baked French bread with your favorite toppings and spreads.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Banana Bread",
+		"image": "bananabread.jpg",
+		"category": ['Baked Goods'],
+		"ingredients": ['1/2 cup butter', '1 cup honey', '2 eggs', '1 tsp Vanilla extract', '1-1/2 cup flour', '1 tsp Baking soda', '1/2 tsp salt', '1 cup Over-ripe banana', '1/2 cup Sour cream Cinnamon'],
+		"instructions": `1. Melt a generous amount of butter in a saucepan over low heat. Allow it to cool for a few minutes before adding it to the mixture.
+ 2. In a large mixing bowl, combine the eggs, honey, and vanilla extract. Whisk them together until they are thoroughly combined.
+ 3. Gradually add the melted butter to the mixture and continue whisking until well mixed.
+ 4. Add a pinch of salt, a dash of baking soda, and a generous amount of flour. Whisk everything together until it forms a smooth batter.
+ 5. Mash up some ripe bananas and mix them into the batter to the desired chunkiness.
+ 6. Add a dollop of sour cream to give the batter some extra richness and creaminess.
+ 7. For a little extra spice, sprinkle some cinnamon on top of the batter.
+ 8. Grease a large loaf pan or cupcake pan with some butter or cooking spray to prevent sticking.
+ 9. Preheat your oven to 350 F and bake for approximately 1 hour. Check for doneness by inserting a toothpick into the center of the bread - it should come out clean when the bread is fully cooked. Enjoy your delicious banana bread!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Japanese Egg Sandwich (Tamago Sando)",
+		"image": "tamagosando.jpg",
+		"category": ['Snacks'],
+		"ingredients": ['3 large eggs', '4 slices bread', '0 Salted butter', '1/4 tsp sugar', '1/4 tsp salt', '2 tsp milk', '2 Tbsp Kewpie mayo'],
+		"instructions": `1. Cook the eggs
+ * Put eggs in a medium saucepan and add enough water to cover by one inch.
+ * Bring it to a boil on medium heat.
+ * Once boiling, cook for 12 minutes.
+ 2. Prepare the egg salad
+ * Transfer eggs to iced water to stop the cooking. Let them cool completely and peel the eggshells.
+ * Transfer peeled eggs to a bowl and mash with a fork. Try to mash the egg whites into small, same-sized pieces.
+ * Add sugar and salt.
+ * Add black pepper and milk. Taste and add more salt and pepper if needed.
+ * Add mayo and mix very well.
+ 3. Assemble the sandwich
+ * Spread butter on the bread.
+ * Evenly distribute the egg salad on one slice of bread.
+ * Put another slice of bread on top, and place the sandwich between two plates to compress slightly. Set aside for 5 minutes.
+ * Cut the bread crust off.
+ * Cut the sandwich in half and eat.
+ Enjoy your delicious egg salad sandwich!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Avocado Toast",
+		"image": "no_picture_yet.jpg",
+		"category": ['Snacks'],
+		"ingredients": ['1 avocado', '1 tsp Lemon juice', '1/4 tsp Salt', '1/4 tsp Black pepper', '1 clove Garlic, chopped', '2 slices bread', '1 tsp Olive oil', '1 pinch Red pepper flakes', '1 tsp Balsamic vinegar', '6 Cherry tomatoes, chopped'],
+		"instructions": `1. Cut the avocado in half and remove the pit. Scoop out the flesh with a spoon and place it in a medium-sized mixing bowl.
+ 2. Add the chopped garlic, lemon juice, salt, and pepper to the mixing bowl with the avocado. Use a fork to mash the ingredients together until they form a smooth paste. You want to make sure that there are no large chunks of avocado left.
+ 3. Toast the slices of bread in a toaster or in the oven until they're golden brown. If using an oven, preheat it to 375°F (190°C) and place the bread directly on the oven rack. Toast for 5-7 minutes, or until the bread is crispy and golden brown.
+ 4. Spread the avocado mixture evenly on each slice of bread. Use a butter knife or the back of a spoon to spread the mixture from edge to edge, making sure that the bread is evenly covered.
+ 5. Drizzle the olive oil over the avocado spread on each slice of bread. This will help to keep the toast moist and add some extra flavor.
+ 6. Top each slice of bread with the chopped tomatoes and sprinkle the red pepper flakes over the top. This will add some color and texture to the toast, as well as a little bit of heat from the red pepper flakes.
+ 7. Toast the bread again in the oven for a few minutes until the tomatoes are slightly roasted. This step is optional, but it can help to enhance the flavor of the tomatoes and make them slightly sweeter.
+ 8. Remove the bread from the oven and sprinkle balsamic vinegar over the top of each slice. This will add a tangy flavor and some acidity to the dish.
+ 9. Serve the toast hot and enjoy! This recipe is perfect for breakfast, lunch, or a light dinner, and can be served on its own or with a side salad.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Creamy Ham Potato and Corn Chowder",
+		"image": "no_picture_yet.jpg",
+		"category": ['Soups'],
+		"ingredients": ['2 cups Cooked ham, diced', '6 slices Bacon, cooked and crumbled', '5.5 Tbsp butter', '1 medium Onion, diced', '2 Carrots, diced', '2 stalks Celery, diced', '2 cans Chicken broth (14.5 oz cans)', '5 medium Potatoes (1 ¾ lbs), diced', '3/4 tsp Dried oregano', '1/2 tsp Dried thyme', '1 leaf bay', '0 Salt and pepper, to taste', '2 cups corn', '1/3 cup All-purpose flour', '3 cups milk', '1/2 cup Sour cream or heavy cream', '0 Green onion or chives, chopped'],
+		"instructions": `1. Begin by melting 1.5 Tbsp of butter in a large pot over medium heat.
+ 2. Add the chopped onion, carrot, and celery, and saute for about 4 minutes until tender.
+ 3. Pour in the chicken broth and add the potatoes, oregano, thyme, and bay leaf. Season with salt and pepper to taste.
+ 4. Bring the mixture to a boil over medium heat, then reduce heat to medium and cover with a lid. Allow the mixture to cook for about 15 minutes, stirring occasionally until the potatoes are nearly tender.
+ 5. Add the chopped ham and corn and continue to cook until the potatoes are fully tender, for an additional 5 minutes.
+ 6. In a medium saucepan, melt the remaining 4 Tbsp of butter over medium heat.
+ 7. Add flour and cook the mixture while stirring constantly for 1 ½ minutes.
+ 8. Slowly add in milk while whisking vigorously to smooth lumps. Season with salt and pepper to taste.
+ 9. Bring the mixture to a boil, whisking constantly until it thickens.
+ 10. Remove the mixture from heat and stir in sour cream or heavy cream.
+ 11. Pour and stir the milk mixture into the soup (once the potatoes are fully tender).
+ 12. Serve the soup warm and topped with bacon and chives.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Butternut Squash Soup",
+		"image": "butternut1.jpg",
+		"category": ['Soups'],
+		"ingredients": ['1 Tbsp Olive oil', '1 White onion', '4 cloves Garlic', '2 cups Chicken broth', '1 Carrot', '1 Granny Smith apple', '1 Medium butternut squash', '1 sprig Fresh sage', '1/8 tsp cayenne', '1 pinch Ground cinnamon and nutmeg', '1/2 cup Unsweetened coconut milk', '0 Salt and pepper, to taste'],
+		"instructions": `1. Prep the onion and garlic by dicing and mincing them respectively.
+ 2. Sauteé the onions and garlic in a large pot until the onions are shiny.
+ 3. Roughly chop the carrot and apple.
+ 4. Peel, seed, and cube the butternut squash. If the squash is hard, microwave it for a few minutes to soften.
+ 5. Add chicken broth, carrot, apple, butternut squash, sage, cayenne, cinnamon, and nutmeg to the pot.
+ 6. Simmer the ingredients for 20-30 minutes until the vegetables are tender.
+ 7. Remove and discard the sage.
+ 8. Lower the heat and add coconut milk.
+ 9. Use an immersion blender to pureé the soup until smooth, taking care to avoid splashing hot soup.
+ 10. Add salt and pepper to taste when serving.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Curry Udon",
+		"image": "no_picture_yet.jpg",
+		"category": ['Soups'],
+		"ingredients": ['500 grams Udon noodles', '3 cups Dashi stock', '200 grams Ground beef', '1/2 onion', '2 carrots', '2 potatoes', '1 Tbsp sake', '2 cubes Japanese curry roux', '2 tsp shoyu', '0 Green onions'],
+		"instructions": `1. To begin, thinly slice the onion and green onions. Next, chop the carrots and potatoes into small cubes.
+ 2. In a pot, sauté the onion in some oil until it becomes translucent. Add the ground beef and cook until it is almost browned.
+ 3. Once the beef is almost fully cooked, add in some dashi, along with the chopped carrots and potatoes. Continue to cook until the vegetables become tender.
+ 4. While the vegetables are cooking, start boiling water in a large pot for the udon noodles. Once the vegetables are tender, turn the heat down to low.
+ 5. Next, add the curry roux in a ladle or large spoon, and use the hot stock to dissolve the roux into the soup. Mix well until the roux has completely dissolved, then turn off the heat.
+ 6. Add shoyu to the soup and mix well. When the water in the other pot has come to a boil, cook the udon noodles according to the package instructions.
+ 7. Once the noodles are done cooking, divide them into two bowls. Pour the curry soup over the udon noodles and top with the sliced green onions. Serve immediately and enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Ozoni",
+		"image": "no_picture_yet.jpg",
+		"category": ['Soups'],
+		"ingredients": ['1.5 cup dashi', '6-10 tbsp miso', '14 oz Tofu (cubed)', '6 cups water', '0 daikon', '0 carrot', '4 stalks spinach', '8 pieces mochi', '0 Green onion', '0 Chicken (cubed)'],
+		"instructions": `1. Start by peeling and slicing the daikon and carrots. You want them to be thin and about the same size for even cooking.
+ 2. In a large pot, bring the dashi to a boil over medium heat. Once it's boiling, add the chicken and cook for 5-7 minutes until it's no longer pink inside. Be sure to skim any foam or fat that rises to the surface.
+ 3. Remove the chicken from the pot and set it aside to cool. Keep the dashi on the stove.
+ 4. Add the sliced daikon and carrots to the pot with the dashi. Continue cooking on medium heat until they're soft and tender. This should take about 10-15 minutes.
+ 5. In a separate saucepan, blanch the spinach for a minute or two. Then, remove it from the heat and place it in cold water to stop the cooking process.
+ 6. Once the daikon and carrots are soft, add miso to the soup. Start with 3 tablespoons and adjust to your desired taste. Be sure to stir the miso in well so that it fully dissolves.
+ 7. Add the tofu to the soup and continue cooking for a few minutes until it's heated through.
+ 8. Toast the mochi until it's golden brown on both sides. You can do this in a toaster oven or on a griddle.
+ 9. To serve, place the toasted mochi in the bottom of a bowl. Add a few pieces of chicken and a handful of blanched spinach. Then, pour the miso soup over the top. Garnish with green onions or sesame seeds if you like. Enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Potato Ham Chowder",
+		"image": "no_picture_yet.jpg",
+		"category": ['Soups'],
+		"ingredients": ['4 slices Bacon, diced', '1/4 cup Unsalted butter', '2 cloves Garlic, minced', '1 Onion, diced', '1.5 cup Frozen corn kernels', '2 tsp Fresh thyme leaves', '2 tbsp All-purpose flour', '3.5 cup milk', '1 lb Russet potatoes, diced', '7 oz Ham, diced', '0 Salt to taste', '0 Pepper to taste'],
+		"instructions": `1. Cook the bacon in a large skillet over medium-high heat until crispy. Use a slotted spoon to transfer the bacon to a paper towel-lined plate, and set aside.
+ 2. Melt the butter in a pot over medium heat. Once melted, add the garlic and onion, stirring frequently until they are translucent.
+ 3. Add the corn and thyme to the pot, and cook for 1-2 minutes, stirring occasionally.
+ 4. Whisk in flour until lightly browned, about 1 minute.
+ 5. Gradually whisk in the milk, stirring constantly until the mixture is thickened, about 1-2 minutes.
+ 6. Stir in the potatoes and bring the mixture to a boil. Once boiling, reduce the heat and let it simmer until the potatoes are tender, about 12-15 minutes.
+ 7. Stir in the ham and add salt and pepper to taste. If the chowder is too thick, you can add more milk to achieve the desired consistency.
+ 8. Garnish with the crispy bacon and serve hot. This delicious and comforting chowder is perfect for a cozy night in or a comforting meal on a cold day.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Spicy Tan Tan Ramen",
+		"image": "spicy_tantan.jpg",
+		"category": ['Soups'],
+		"ingredients": ['3 Tbsp Tsuyu', '2 Tbsp Tahini', '1 tsp Chili oil FOR MEAT', '2 Tbsp Chili oil or regular cooking oil', '3 cloves garlic', '1 oz ginger (5.5 tsp powder)', '1 Tbsp Toban djian (Chinese chili bean paste)', '1 Tbsp Oyster sauce', '1/2 lb Ground pork', '3 Tbsp Rice wine FOR SOUP', '1 cup water', '2 cups milk', '2 tsp Chicken bouillon FOR NOODLES & TOPPINGS', '1 baby Bok choy', '1 handful beansprouts', '1-2 Green onions, chopped', '0 Sesame seeds', '0 Sansyo powder (optional)'],
+		"instructions": `1. Make the tare by whisking together all the tare ingredients and setting it aside.
+ 2. In a medium pot, simmer water, milk, and chicken powder for 5 minutes. In another pot, bring water to a boil.
+ 3. In a large pan over high heat, stir fry chili oil, garlic, and ginger for 30 seconds. Add chili bean paste and oyster sauce, stir fry for another 45 seconds to 1 minute, then add ground pork and stir fry until cooked, which should take about 1 minute. Add rice wine and stir fry for another 3 to 4 minutes, or until there's no moisture left.
+ 4. Blanch bok choy and bean sprouts in salted boiling water for 1 minute and 2 minutes, respectively.
+ 5. Cook the noodles in the same boiling water for 2 to 3 minutes.
+ 6. Combine half of the tare and half of the hot broth in a serving bowl.
+ 7. Drain the noodles and add them to the serving bowl.
+ 8. Top with blanched bok choy and bean sprouts, stir-fried pork, extra chili oil (if desired), ramen egg, chopped green onions, sesame seeds, and sansyo powder.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Miso Soup",
+		"image": "no_picture_yet.jpg",
+		"category": ['Soups'],
+		"ingredients": ['1000 ml water', '1 tsp Dashi powder', '0 Small daikon', '1 box tofu', '4 Tbsp Awase miso (half white, half red)', '0 negi'],
+		"instructions": `1. Fill a pot with water and bring it to a boil. Once the water starts boiling, add dashi powder to the pot. Stir well until the powder dissolves completely.
+ 2. Peel and slice the small daikon and add it to the pot. Let it boil for about 5 minutes or until the daikon is soft and translucent. Make sure to adjust the heat if needed to maintain a gentle boil.
+ 3. Reduce the heat to medium-low and add tofu to the pot. Let it cook for 3 more minutes. This will give the tofu time to absorb the flavor of the broth and soften slightly.
+ 4. In a separate bowl, add miso and a small amount of broth from the pot. Mix well until the miso has completely dissolved. Then, add the miso mixture back to the pot and stir gently to combine.
+ 5. Turn off the heat and add negi when serving. Chop the negi into small pieces and sprinkle them on top of the soup before serving. This will give the dish a fresh and aromatic flavor. Serve hot and enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Garlic Broccolini",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sides'],
+		"ingredients": ['2 bunches broccolini', '1 Tbsp Olive oil', '4 cloves Garlic, thinly sliced', '1 tsp salt', '1/2 tsp Red pepper flakes', '1/2 cup water - Lemon wedges'],
+		"instructions": `1. Start by preparing the broccolini. Rinse the broccolini under cool water and shake off any excess water. Then, using a sharp knife, trim about ½ inch off the bottom of the stems. This will ensure that the broccolini cooks evenly.
+ 2. Heat up a large skillet over medium-high heat until the oil is shimmering. You want the pan to be hot so that the broccolini cooks quickly and develops a nice char. Once the pan is hot, add the broccolini to the skillet and sauté for 5-7 minutes, or until the broccolini is bright green and some stems and tops of the florets are lightly charred.
+ 3. Add the garlic, salt, and red pepper flakes to the skillet. Stir the ingredients together and continue to sauté until the garlic is fragrant, about 30 seconds. Be careful not to let the garlic burn, as this can give your dish a bitter taste.
+ 4. Pour in the water and quickly cover the skillet with a lid. Cook until the broccolini is vibrant green and crisp-tender, which should take about 1 to 2 minutes. The water will help steam the broccolini and make it tender.
+ 5. Once the broccolini is cooked to your liking, remove the skillet from the heat. Serve immediately with lemon wedges on the side. The lemon wedges add a fresh and bright flavor to the dish, which complements the earthy flavor of the broccolini.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Hawaii Mac Salad",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sides'],
+		"ingredients": ['1/2 lb macaroni', '1 Tbsp Apple cider vinegar', '1 Carrot, shredded', '1.25 cup Best Foods mayo', '0.13 cup milk', '1 tsp sugar Pepper to taste'],
+		"instructions": `1. Cook the macaroni according to the package instructions until it's al dente. Drain it in a colander and rinse it under cold water to cool it down.
+ 2. In a large mixing bowl, combine the mayonnaise, milk, white vinegar, grated carrots, and sugar. Mix the ingredients until they are well combined.
+ 3. Add the cooled macaroni to the mixing bowl and gently stir it into the mayonnaise mixture until the macaroni is evenly coated.
+ 4. Add salt and pepper to taste, and stir to combine.
+ 5. Cover the mixing bowl with a lid or plastic wrap and refrigerate it for at least 4 hours, or overnight if possible. This will allow the flavors to meld together and will make for a tastier salad.
+ 6. Before serving, give the macaroni salad a quick stir and taste it again to see if you need to add more salt or pepper. Serve it cold, with a splash of shoyu on top if desired.
+ Enjoy your delicious macaroni salad!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Stir-fry garlic green beans",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sides'],
+		"ingredients": ['1 lb Green beans', '1 tbsp wine', '1 tbsp shoyu', '1 tbsp garlic', '1 tbsp ginger', '1/2 tsp Red pepper flakes', '1 tbsp oil', '0 Salt to taste'],
+		"instructions": `1. Rinse the green beans with cold water and pat them dry with a paper towel.
+ 2. In a small bowl, mix together the shoyu and white wine.
+ 3. Prepare the garlic by peeling and mincing 2-3 cloves. Peel and finely chop 1 tablespoon of fresh ginger.
+ 4. In a large skillet or wok, heat the pan over medium-high heat until one drop of water evaporates in 1-2 seconds.
+ 5. Swirl 1-2 tablespoons of oil in the pan. You can use vegetable oil, canola oil, or any oil with a high smoke point.
+ 6. Add the minced garlic and chopped ginger to the pan and stir-fry for 8 seconds or until fragrant.
+ 7. Add the green beans to the pan and toss them in the shoyu and wine mixture.
+ 8. Continue to stir-fry the green beans for 5-7 minutes or until they are cooked to your desired texture. If the pan seems dry, you can add a splash of water to create some steam.
+ 9. When the green beans are cooked to your liking, remove the pan from the heat.
+ 10. Sprinkle some red pepper flakes on top for a bit of heat and extra flavor.
+ 11. Serve hot as a side dish or as part of a larger meal.
+ Enjoy your delicious stir-fried green beans!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "French Green Beans with Butter Sauce and Crispy Leeks",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sides'],
+		"ingredients": ['1/2 cup flour', '1/2 tsp salt', '1/2 tsp Ground pepper', '1/2 cup buttermilk', '2 tbsp Leeks, chopped', '1/2 cup White wine', '3 tbsp vinegar', '2 tbsp Celery, chopped', '1 tsp sugar', '10 tbsp Unsalted butter', '1.5 lb Haricots verts'],
+		"instructions": `1. Begin by heating 1 inch of oil in a heavy pot over medium heat until it reaches a temperature of 350F. It's important to use a heavy pot to ensure even heat distribution and to prevent the pot from tipping over due to the weight of the oil.
+ 2. While the oil is heating, prepare the leeks by cutting them into rounds and washing them thoroughly to remove any dirt or debris. In a separate bowl, mix together the flour, ¼ tsp salt, and pepper. This will create a seasoned flour mixture that will coat the leeks and help them develop a crispy exterior.
+ 3. In another bowl, pour some buttermilk. The acidity in the buttermilk will help tenderize the leeks and also create a creamy texture when combined with the flour coating. Dip the leek rounds in the buttermilk, then dredge them in the seasoned flour mixture until they are fully coated.
+ 4. Once the oil has reached 350F, carefully add the coated leeks to the pot, being sure not to overcrowd the pot. Fry the leeks until they are golden and crispy, which should take about 1 minute. Use a slotted spoon or tongs to remove the leeks from the oil and transfer them to a paper towel-lined plate to drain any excess oil.
+ 5. Now it's time to prepare the butter sauce. In a separate pot over medium heat, combine the white wine, vinegar, celery, chopped leeks, remaining ¼ tsp salt and pepper, and sugar. This will create a flavorful base for the sauce. Bring the mixture to a boil and allow it to cook until the liquid is reduced by two-thirds. This will help concentrate the flavors and create a thicker sauce.
+ 6. Once the liquid has reduced, whisk in the butter until it's fully incorporated into the sauce. This will create a rich, velvety texture that will complement the crispiness of the leeks and the freshness of the green beans.
+ 7. To assemble the dish, transfer the steamed green beans to a platter. Drizzle the butter sauce over the green beans, making sure to coat them evenly. Finally, top the green beans with the fried leeks, which will add a delicious crunch and a savory flavor.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Hasselback Potato Gratin",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sides'],
+		"ingredients": ['2 tbsp Olive oil', '3 Onions, sliced', '2.5 cup Heavy cream', '4 cloves Garlic, sliced', '1 tbsp Fresh thyme, chopped', '1 tbsp Rosemary, chopped', '8 oz Gruyere, grated', '4 oz Parmesan, grated', '3.5 lbs Yukon gold potatoes, sliced ¼ inch thick'],
+		"instructions": `1. Preheat your oven to 350F to ensure that it's hot and ready to go when you need it.
+ 2. Lightly grease a 3 quart baking dish to ensure that the potato gratin doesn't stick to the sides or bottom of the dish during baking. You can use a non-stick spray or butter to grease the dish.
+ 3. In a large bowl, combine the onions, cream, garlic, thyme, rosemary, 1 ⅔ cups of Gruyere cheese, and ⅔ cup of parmesan cheese. Season the mixture with salt and pepper to taste. This step is important to make sure that all the ingredients are evenly distributed and that the flavors are well-balanced.
+ 4. Take your potato slices and arrange them vertically in the prepared baking dish. This will help to create a visually pleasing presentation and ensure that the potatoes are cooked evenly. It's important to slice the potatoes thinly so that they cook through and are tender.
+ 5. Pour the cream mixture over the potatoes, making sure that some of the mixture goes between the potatoes. This will help to ensure that every potato slice is coated in the creamy, cheesy mixture, resulting in a rich and flavorful dish.
+ 6. Cover the dish with aluminum foil to prevent the potatoes from drying out while baking. This step is important to make sure that the potatoes cook through evenly and are not overcooked on the edges.
+ 7. Bake the potato gratin in the preheated oven until the potatoes start to soften, which should take about 50-60 minutes. This step is important to make sure that the potatoes are cooked through and tender before the cheese on top is browned.
+ 8. Remove the foil and bake the gratin until the potatoes are golden brown, which should take another 25-30 minutes. This step is important to create a crispy and golden-brown crust on top of the potato gratin.
+ 9. Sprinkle the remaining ⅓ cup of Gruyere and ⅓ cup of parmesan cheese over the top of the gratin. This will add an extra layer of flavor and texture to the dish.
+ 10. Bake the potato gratin for an additional 5-10 minutes, until the cheese is golden brown and bubbly. This step is important to create a perfectly melted and browned cheese topping on the dish.
+ You'll have a delicious and impressive potato gratin that's perfect for any occasion. Enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Grilled Shishito Recipe",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sides'],
+		"ingredients": ['15-20 Shishito peppers', '1 tsp oil', '1/2 Tbsp sugar', '1/2 Tbsp Soy Sauce', '1/2 Tbsp sake', '0 Katsuobushi (dried Bonito flakes)'],
+		"instructions": `1. Wash the Shishito peppers and remove the stems from each pepper. This step is important to make sure that the peppers are clean and ready to be cooked.
+ 2. Add oil to a frying pan and heat it over low heat. It's important to use low heat at first so that the peppers don't burn before they are cooked through.
+ 3. Place the Shishito peppers in the pan and grill them until they are soft and browned a little. This should take about 3-4 minutes, but the time may vary depending on the size and thickness of the peppers. Be sure to turn the peppers occasionally to ensure that they cook evenly on all sides.
+ 4. Add sugar, soy sauce, and sake to the pan and stir the ingredients together so that the Shishito peppers are well-coated with the sauce. This step is important to add flavor and depth to the dish. You can adjust the amounts of the ingredients according to your taste.
+ 5. Add Katuobushi (dried, smoked bonito flakes) to the pan and stir the ingredients again. This will add a smoky flavor to the dish and enhance the umami taste of the soy sauce.
+ 6. Serve the grilled Shishito peppers immediately while they are still hot and crispy. This is an important step as the peppers are best enjoyed when they are fresh off the grill.
+ By following these instructions, you'll have a delicious and flavorful dish of grilled Shishito peppers that's perfect as an appetizer or side dish. Enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Southern Potato Salad",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sides'],
+		"ingredients": ['3 lbs Russet potatoes', '1 cup mayonnaise', '1/4 cup Yellow mustard', '2 tsp Apple cider vinegar', '2 tsp sugar', '1/2 tsp Onion powder', '1/4 cup Sweet pickle relish', '1 stalk Celery, chopped', '1/2 Sweet onion, chopped', '4 Hard boiled eggs, chopped/sliced', '0 Paprika to taste'],
+		"instructions": `1. Cut each potato in half. This step will help the potatoes cook evenly and more quickly.
+ 2. Place the potatoes in a large pot and cover them with about 1 inch of water. Add 2 teaspoons of salt to the pot to enhance the flavor of the potatoes. Bring the water to a simmer over medium heat.
+ 3. Simmer the potatoes until they are fork-tender, which should take about 20 minutes. Check the potatoes frequently to ensure that they don't overcook or become too soft. When the potatoes are done, drain them well and let them cool to room temperature.
+ 4. Once the potatoes have cooled, you can peel and discard the skins, or leave them on if you prefer. Then, place the potatoes in a large bowl and use a knife to cut them into bite-sized pieces.
+ 5. In a small bowl, mix together mayonnaise, mustard, vinegar, sugar, and onion powder. This mixture will serve as the dressing for the potato salad.
+ 6. Pour the dressing over the potatoes and mix well until the potatoes are coated in the dressing.
+ 7. Add relish, celery, onion, and the chopped eggs to the bowl. Mix everything together until the ingredients are evenly distributed.
+ 8. Add salt and pepper to taste. This is an important step to enhance the flavor of the dish, so be sure to taste the salad and adjust the seasoning according to your preference.
+ 9. Top the salad with sliced egg and sprinkle with paprika. This step will add color and texture to the dish.
+ 10. Cover the bowl with plastic wrap and refrigerate the potato salad for at least 4 hours. This step will allow the flavors to blend together and enhance the taste of the dish.
+ By following these instructions, you'll have a delicious and flavorful potato salad that's perfect for any occasion. Enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "King Oyster Mushroom Rice Bowl",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sides'],
+		"ingredients": ['300 gram King Oyster Mushrooms', '1-2 Tbsp Olive oil', '1 tsp Sesame oil', '1 Small piece Ginger, finely chopped', '1-2 clove Garlic, finely chopped', '2 Tbsp Brown or white sugar', '3-4 Tbsp Shoyu', '1 Tbsp Mirin', '1/4 Cup Sake or water', '1 tsp Corn starch, mixed with 1-2 tsp water', '0 negi', '0 Toasted sesame seeds'],
+		"instructions": `1. Clean the mushrooms and cut them into chunky pieces. This step will ensure that the mushrooms cook evenly and make the dish look more attractive.
+ 2. Heat oil in a large frying pan over medium-high heat. Add the mushrooms to the pan and cook until they are lightly browned. This should take about 5-7 minutes. Once done, transfer the mushrooms to a plate and set them aside.
+ 3. Lower the heat to low and add sesame oil, ginger, and garlic to the frying pan. Cook, stirring frequently, for a few minutes or until the ingredients are caramelized. This will enhance the flavor of the dish.
+ 4. Add sugar, soy sauce, rice vinegar, and sake (or water) to the pan and bring the mixture to a boil. This will create a flavorful sauce.
+ 5. Once the sauce is boiling, add the mushrooms back to the pan and mix to combine. This will ensure that the mushrooms are coated in the sauce and absorb its flavors.
+ 6. Mix starch flour with water in a separate bowl until it becomes a smooth paste. Gradually add this mixture to the pan, stirring continuously, until the sauce thickens. This will give the dish a more substantial texture and flavor.
+ 7. Half fill a bowl with freshly cooked rice and cover it with the mushroom mixture. This step will give the dish a filling base of rice.
+ 8. Sprinkle some finely chopped spring onion and sesame seeds on top of the dish. This will add color, texture, and flavor to the dish.
+ By following these instructions, you'll have a delicious and flavorful mushroom rice bowl that's perfect for any meal. Enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Roasted Mushroom Medley",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sides'],
+		"ingredients": ['0.5 lb Fresh mushrooms, quartered', '3 cloves Garlic, sliced', '1 tbsp Olive oil', '1 tsp Worcestershire sauce', '1 tsp Balsamic vinegar', '1/2 tsp Dried oregano', '1/8 tsp salt', '1/8 tsp Black pepper', '1 tbsp Fresh parsley'],
+		"instructions": `1. Preheat the oven to 400F.
+ 2. Clean the mushrooms and cut them into large pieces. You can use any type of mushroom you like, such as portobello, shiitake, or button mushrooms. Place the mushrooms in a baking pan that is large enough to hold them in a single layer. Make sure the pan is lightly oiled so that the mushrooms do not stick.
+ 3. Stir in the minced garlic to the mushrooms. Garlic adds a rich and savory flavor to the dish that complements the mushrooms well.
+ 4. Drizzle oil, Worcestershire sauce, and balsamic vinegar over the mushrooms. The oil helps to keep the mushrooms moist during roasting, while the Worcestershire sauce and balsamic vinegar add depth of flavor and a tangy sweetness to the dish.
+ 5. Sprinkle oregano, salt, and pepper over the mushrooms. The oregano adds a warm, earthy flavor, while the salt and pepper help to bring out the natural flavors of the mushrooms.
+ 6. Toss the mushrooms with the other ingredients until they are evenly coated. You can use your hands or a spoon to mix the ingredients together.
+ 7. Roast the mushrooms in the preheated oven, uncovered, for 20-25 minutes or until tender, stirring twice during the cooking process. Roasting the mushrooms in the oven allows them to develop a rich, nutty flavor and caramelized edges. Stirring the mushrooms twice during cooking helps to ensure they cook evenly.
+ 8. Remove the mushrooms from the oven and stir in the fresh parsley. The parsley adds a bright, fresh flavor to the dish and also provides a pop of green color.
+ 9. You can serve the roasted mushrooms as a side dish, or use them to add flavor to other dishes, such as pasta or rice dishes. Enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Cheesy Garlic Roasted Asparagus",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sides'],
+		"ingredients": ['1 lb asparagus', '3 Tbsp Olive oil', '1 Tbsp garlic', '3/4 tsp salt', '1/4 tsp Black pepper', '0 cheese'],
+		"instructions": `1. Preheat your oven to 425°F and lightly grease a baking sheet. This will prevent the asparagus from sticking and make clean-up easier.
+ 2. Wash the asparagus and trim the woody ends off. Place them on the prepared baking sheet in a single layer. This ensures even cooking and browning.
+ 3. Drizzle the asparagus with olive oil and sprinkle with minced garlic, salt, and freshly ground black pepper. Use tongs to mix everything together and evenly coat the asparagus with the oil and seasonings.
+ 4. Bake the asparagus in the preheated oven for 10-15 minutes or until tender and lightly browned. Keep an eye on the asparagus and check for doneness after 10 minutes, as thicker asparagus may require additional cooking time.
+ 5. Once the asparagus is cooked, remove the baking sheet from the oven and sprinkle grated cheese on top. Use a cheese with good melting properties, such as Parmesan or Gruyere.
+ 6. Turn the oven to the broil setting and return the baking sheet to the oven. Broil the asparagus for 4-5 minutes or until the cheese is golden brown and bubbly. Keep a close eye on the asparagus during broiling to prevent burning.
+ 7. Once the cheese is melted and bubbly, remove the baking sheet from the oven and serve immediately. Enjoy your delicious roasted asparagus with a crispy, cheesy topping!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Bacon Garlic Brussel Sprouts",
+		"image": "brussel_sprouts.jpg",
+		"category": ['Sides'],
+		"ingredients": ['1 lb Brussel sprouts', '4 strips Bacon', '10 cloves Galic, chopped finely Olive oil Black pepper to taste Salt Garlic powder Parmesan cheese Lemon juice'],
+		"instructions": `1. Cook the bacon: Heat a large skillet over low heat and start cooking the bacon until it's crispy. This may take around 10-12 minutes depending on the thickness of your bacon. Once it's done, remove it from the skillet and place it on a paper towel to drain the excess fat.
+ 2. Prepare the Brussel sprouts: While the bacon is cooking, prepare the Brussel sprouts. Cut off the bottom of each Brussel sprout and discard it. Then, cut each Brussel sprout in half.
+ 3. Arrange the Brussel sprouts: Spread the Brussel sprout halves on a baking tray lined with parchment paper.
+ 4. Season the Brussel sprouts: Drizzle the Brussel sprouts with olive oil and sprinkle salt, black pepper, and garlic powder over them. Use tongs to toss the Brussel sprouts so they are evenly coated with the seasoning.
+ 5. Bake the Brussel sprouts: Bake the Brussel sprouts in the oven at 350°F for about 10 minutes, or until they turn bright green.
+ 6. Add garlic: Remove the baking tray from the oven and add chopped garlic to the Brussel sprouts. Toss the garlic and Brussel sprouts together and return the tray to the oven.
+ 7. Bake until garlic is browned: Bake the Brussel sprouts again at 350°F until the garlic has browned. This should take about 5-7 minutes.
+ 8. Add parmesan cheese and lemon juice: Remove the Brussel sprouts from the oven and sprinkle grated parmesan cheese and a few drops of lemon juice over them.
+ 9. Add bacon: Cut the bacon into small pieces and sprinkle them on top of the Brussel sprouts.
+ 10. Serve warm: Serve the Brussel sprouts warm and enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Ruth’s Chris Creamed Spinach",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sides'],
+		"ingredients": ['6 Tbsp butter', '1/4 cup All-purpose flour', '1/4 cup Chopped onion', '1 leaf bay', '1 clove garlic', '2 cups Whole milk', '20 ounces Fresh spinach'],
+		"instructions": `1. Melt 6 tablespoons of butter in a heavy medium saucepan over medium heat.
+ 2. Add 6 tablespoons of flour and stir until lightly golden, about 7 minutes.
+ 3. Stir in 1/2 cup of chopped onion, 1 bay leaf, and 1 minced garlic clove.
+ 4. Gradually whisk in 4 cups of milk, whisking until the mixture boils and thickens, about 10 minutes.
+ 5. Reduce the heat to low and simmer the sauce for 5 minutes longer, whisking frequently (the sauce will be very thick).
+ 6. Remove the bay leaf and whole clove.
+ 7. Cook 2 pounds of spinach in a large pot of boiling water just until wilted and tender, about 2 minutes.
+ 8. Drain the spinach and transfer it to a bowl filled with ice water to cool.
+ 9. Drain the spinach well and roll it up in a kitchen towel to squeeze out as much liquid as possible.
+ 10. Finely chop the spinach and add it to the warm sauce, simmering over low heat until the spinach is heated through, stirring often, about 5 minutes.
+ 11. Stir in the remaining 2 tablespoons of butter.
+ 12. Season the sauce to taste with salt and pepper, and serve.
+ This creamy spinach sauce is a perfect complement to many dishes, such as grilled meats, roasted vegetables, or pasta.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Ebi Chili #1",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sauces'],
+		"ingredients": ['10 shrimp', '1 Tbsp Cornstarch (for cleaning shrimp)', '0 Olive oil', '00 For Shrimp Marinade', '1/4 tsp salt', '1/8 tsp White pepper powder', '1 Tbsp sake', '1 Tbsp cornstarch', '00 For Chili Sauce', '1 knob Ginger (½ tsp powder)', '2 cloves Garlic', '1 Green onion (use only white part)', '2 tsp Spicy chili bean sauce', '2 Tbsp ketchup', '1/2 cup Chicken broth', '1 Tbsp sake', '1.5 tsp sugar', '1 tsp Roasted sesame oil', '2 Tbsp water', '1 Tbsp cornstartch'],
+		"instructions": `1. Clean and marinate the shrimp
+ * Clean the shrimp by dusting them with cornstarch and then rinsing them under cold running water. Pat dry with paper towel.
+ * Place the shrimp in a medium bowl and add the marinade ingredients: soy sauce, Shaoxing wine, cornstarch, and white pepper. Rub the marinade into the shrimp to coat well. Set aside for 10-15 minutes.
+ 2. Prep the aromatics and make the sauce
+ * Mince the ginger, garlic, and white part of the green onion.
+ * In a pan, heat some oil over medium heat. Cook the shrimp until both sides change color, then transfer to a plate.
+ * In the same pan, add more oil and saute the minced aromatics until fragrant. Lower the heat.
+ * Add the chili bean paste, ketchup, chicken broth, sake, and sugar to the pan. Stir to combine and let simmer for a few minutes, until the sauce thickens slightly.
+ 3. Finish the dish
+ * Return the shrimp to the pan and add the green part of the green onion. Cook until the shrimp is cooked through, stirring occasionally.
+ * Add a drizzle of sesame oil and then pour in the cornstarch/water mixture to thicken the sauce. Stir well and remove from heat.
+ * Transfer the shrimp and sauce to a serving dish and garnish with some chopped green onion and sesame seeds, if desired. Serve hot with steamed rice.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Ebi Chili #2",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sauces'],
+		"ingredients": ['3 cup Chicken broth', '4 Tbsp sake', '4 Tbsp sugar', '4 tsp Soy sauce', '1 can Tomato paste (6 oz) = 8Tbsp', '2 ⅔ Tbsp Mirin', '4 Tbsp oil', '4 Tbsp Ginger, finely chopped', '6 Tbsp Garlic, finely chopped', '7 tsp Hot bean paste (tobanjan)', '4 Tbsp Corn starch', '4 Tbsp water'],
+		"instructions": `1. Start by heating the oil in a skillet over low heat. Once the oil is hot, add the minced ginger, garlic, and hot bean paste to the skillet. Stir fry the mixture on low heat until the oil becomes red and fragrant.
+ 2. In a separate bowl, mix together the remaining ingredients except for the cornstarch and water. This should include any vegetables, meat, or other ingredients you plan to use in the dish, as well as any seasonings, sauces, or liquids.
+ 3. Once the ginger, garlic, and hot bean paste are fragrant, pour the mixed ingredients into the skillet with the ginger mixture. Turn the heat up to high and bring the mixture to a boil, stirring constantly.
+ 4. In a small bowl, mix the cornstarch and water together until the corn starch is completely dissolved. Once the mixture in the skillet is boiling, slowly pour the cornstarch mixture into the skillet, stirring constantly.
+ 5. Continue stirring the mixture for another minute or two until the sauce thickens and becomes glossy. Once the sauce has thickened, turn off the heat and remove the skillet from the stove.
+ By following these steps, you'll have a delicious stir fry sauce that's perfect for any number of dishes!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Ginger Miso Sauce",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sauces'],
+		"ingredients": ['1/4 cup Miso', '1/4 cup Mirin', '1 Tbsp Fresh ginger, grated', '1 to 1/2 tsp sugar'],
+		"instructions": `1. To make a miso glaze, start by gathering your ingredients. You'll need 1/4 cup of miso paste, 4 tablespoons of mirin, 1 tablespoon of freshly grated ginger, and 1 teaspoon of sugar.
+ 2. In a small bowl, combine the miso, mirin, grated ginger, and sugar. Mix well until all ingredients are fully incorporated.
+ 3. The miso glaze is now ready to use. It's perfect for brushing onto grilled fish or meat, roasted vegetables, or even tofu. The recipe makes enough for 2-3 servings, but you can easily double or triple the recipe if you need more. Simply brush the glaze onto your food during the last few minutes of cooking, or use it as a dipping sauce.
+ 4. Store any leftover miso glaze in an airtight container in the refrigerator. It will keep for up to a week and can be used as a marinade or a quick sauce for stir-fries. Before using again, make sure to mix well and adjust the seasoning if needed.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Japanese Teriyaki sauce",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sauces'],
+		"ingredients": ['1/2 cup shoyu', '1/2 cup mirin', '2 tbsp sugar', '1 tsp ginger', '1 tsp Garlic (chopped)'],
+		"instructions": `1. Gather all the necessary ingredients: shoyu, mirin, sugar, ginger, and garlic.
+ 2. In a small saucepan, combine the shoyu, mirin, and sugar.
+ 3. Mix the ingredients together until the sugar dissolves.
+ 4. Peel and grate a small piece of ginger (about 1 inch). Add the ginger to the saucepan.
+ 5. Mince 1-2 cloves of garlic and add to the saucepan as well.
+ 6. Heat the saucepan on medium heat and bring the mixture to a boil, stirring occasionally.
+ 7. Once the mixture comes to a boil, turn the heat down to low and let it simmer for a few minutes. This will help the flavors to meld together and the sauce to thicken slightly.
+ 8. After a few minutes, remove the saucepan from the heat and allow it to cool.
+ 9. Once the sauce has cooled, it's ready to be used. Pour it into a serving dish and use it as a dipping sauce, marinade, or glaze for your favorite dishes.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Nacho Cheese Sauce",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sauces'],
+		"ingredients": ['2 Tbsp butter', '2 tsp Corn starch', '3/4 cup Heavy cream', '1/4 cut water', '6 oz Medium cheddar', '1/4 tsp salt', '1/8 tsp Chilli powder', '1/8 tsp Smoked paprika'],
+		"instructions": `1. Start by melting the butter in a saucepan over medium heat. It's important to keep an eye on it as once it has melted, it can brown quickly. If you see it starting to brown, lower the heat to medium-low.
+ 2. Once the butter has melted, add the cornstarch and whisk or stir continuously for about 1 minute over medium heat until the mixture is simmering.
+ 3. Slowly add the milk to the saucepan while whisking continuously to avoid lumps.
+ 4. Add the spices to the mixture, including salt, black pepper, garlic powder, and any other preferred spices, and continue to cook, stirring regularly until slightly thickened, about 4 minutes.
+ 5. Remove the saucepan from the heat and add the cheese, stirring until it's melted and smooth.
+ 6. The cheese sauce is now ready to serve! This recipe is perfect for a variety of dishes such as pasta, vegetables, or as a dip. Be sure to serve it immediately while it's still warm and creamy. Enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Chili Pepper Water",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sauces'],
+		"ingredients": ['8 oz water', '2 oz White vinegar', '1 tsp salt', '3-20 Chili pepper', '2 cloves Garlic, sliced', '2-3 Fresh ginger slices', '0 splash Soy sauce'],
+		"instructions": `1. In a medium-sized bowl, add water, white vinegar, salt, chili pepper, sliced garlic, fresh ginger slices, and soy sauce.
+ 2. Use a whisk or spoon to stir and combine all ingredients thoroughly until the salt is fully dissolved.
+ 3. Cover the bowl with a lid or plastic wrap and place it in the refrigerator to chill for at least 30 minutes, or until ready to use.
+ 4. Before serving or using the marinade, give it a good whisk to make sure all the ingredients are well-mixed and evenly distributed.
+ 5. The marinade can be used for a variety of dishes, such as marinating meat, poultry, seafood, or vegetables. Simply pour the desired amount of marinade over the food and let it sit for at least 30 minutes (or longer, depending on the recipe) to infuse the flavors. Enjoy!
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Buttermilk Ranch Sauce",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sauces'],
+		"ingredients": ['1/2 cup Sour cream', '1/2 cup buttermilk', '1/4 cup mayo', '2 Garlic cloves, minced', '1 tsp salt', '1/4 tsp pepper', '1-1/2 tsp Dried dill', '1/4 cup Finely chopped fresh chives', '2 tsp Fresh lemon juice', '0 dashes tabasco'],
+		"instructions": `* When combining the ingredients, it can be helpful to use a whisk or a fork to mix everything together until well combined.
+ * You can adjust the seasoning to taste. If you like your dip more garlicky, feel free to add more minced garlic. If you like a spicier dip, you can add more tabasco sauce.
+ * After whisking everything together, cover the bowl with plastic wrap or a lid and place it in the fridge to chill. This allows the flavors to meld together and also firms up the dip slightly.
+ * This recipe yields about 1-⅓ cups of dip. If you need more, you can easily double or triple the recipe.
+ * The dip can be stored in an airtight container in the fridge for 3-4 days. If the dip separates a bit after sitting, simply give it a good stir before serving.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Kewpie Sesame Dressing",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sauces'],
+		"ingredients": ['6 Tbsp Kewipie mayo', '2 tsp tahini', '2 tsp mirin', '2 tsp Shoyu', '1 tsp Sesame oil'],
+		"instructions": `1. Mix the Kewpie mayo and tahini together in a small dish.
+ 2. Add the mirin, shoyu, and sesame oil and mix until smooth.
+ 3. Refrigerate.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Taco Seasoning",
+		"image": "no_picture_yet.jpg",
+		"category": ['Sauces'],
+		"ingredients": ['1 Tbsp Chili powder', '1.5 tsp cumin', '1 tsp salt', '1/4 tsp Ground black pepper', '1/2 tsp paprika', '1/4 tsp Garlic powder', '1/4 tsp Onion powder', '1 pinch cayenne', '1/4 tsp Dried oregano'],
+		"instructions": `1. In a small bowl, mix together all the spices until well combined.
+ 2. Store the taco seasoning in an airtight container or spice jar until ready to use.
+ 3. To use, add about 2 tablespoons of the seasoning to 1 pound of ground meat (beef, chicken, turkey, etc.) or vegetables and cook as desired for tacos, burritos, or other Mexican-style dishes.
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Cranberry-Orange Gin Fizz with Thyme",
+		"image": "no_picture_yet.jpg",
+		"category": ['', 'Drinks'],
+		"ingredients": ['1 oz gin', '1/2 oz Cointreau', '2 sprigs Fresh thyme', '2 oz Cranberry juice', '1 Tbsp Freshly squeezed orange juice', '0 sprite ice'],
+		"instructions": `1. Combine all ingredients
+ 2. Stir
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Pomegranate Cointreau",
+		"image": "no_picture_yet.jpg",
+		"category": ['', 'Drinks'],
+		"ingredients": ['1/2 fresh lime', '1 sprig rosemary', '25 ml Cointreau', '25 ml gin', '25 ml Grenadine', '1 dash Orange bitters', '0 Tonic water'],
+		"instructions": `1. Combine all ingredients
+ 2. Stir
+`
+	})
+);
+await DataStore.save(
+	new Recipes({
+		"name": "Bramble on Rose",
+		"image": "no_picture_yet.jpg",
+		"category": ['', 'Drinks'],
+		"ingredients": ['-1 Gray whale gin Giffard creme de framboise Honeydew mint'],
+		"instructions": `1. Combine all ingredients
+ 2. Stir
+`
+	})
+);

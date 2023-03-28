@@ -89,12 +89,12 @@ mochiko_chicken.jpg
   
 
 Ingredients
-3
+2
 	lbs
 	chicken
 	4
 	tbsp
-	flour
+	Mochiko flour
 	3
 	tbsp
 	sugar
@@ -140,7 +140,7 @@ ________________
 
 
 Title
- Rafute (Okinawan braised pork belly)
+Rafute (Okinawan braised pork belly)
 
 
 Image
@@ -193,6 +193,56 @@ Directions
 
 
 Done
+________________
+Okinawan-style pork belly strips
+
+
+Image
+no_pic_yet.jpg
+
+
+
+
+Ingredients
+1
+	lb
+	Thinly sliced pork belly
+	1/4
+	cup
+	shoyu
+	2
+	Tbsp
+	sake
+	2
+	Tbsp
+	mirin
+	2
+	Tbsp
+	Black sugar(substitute with muscovado sugar)
+	2
+	cloves
+	garlic
+	1
+	tsp
+	Grated ginger
+	1
+	
+
+	Green onion, sliced
+	
+
+
+
+Directions
+1. In a large bowl, whisk together the soy sauce, sake, mirin, black sugar, minced garlic, and grated ginger until the sugar has dissolved.
+2. Add the thinly sliced pork belly to the marinade, making sure that each piece is coated evenly.
+3. Cover the bowl with plastic wrap and marinate the pork belly in the refrigerator for at least 1 hour, or up to overnight.
+4. When ready to cook, remove the pork belly from the marinade and discard the excess marinade.
+5. Heat a large skillet over medium-high heat. Add the pork belly and cook until browned and crispy, about 2-3 minutes per side.
+6. Serve the pork belly hot, garnished with thinly sliced green onion.
+
+
+Done
 
 
 ________________
@@ -203,10 +253,10 @@ Rotisserie Ham
 
 
 Image
-no_picture_yet.jpg
-
-
+ham.jpg
   
+
+
 
 Ingredients
 7-9
@@ -251,11 +301,12 @@ Title
 Turkey Meatballs
 
 
-Image
-no_picture_yet.jpg
-
-
   
+Image
+turkey_meatballs3.jpg
+
+
+
 
 Ingredients
 2
@@ -318,11 +369,12 @@ Image
 korokke1.jpg
 
 
-  
+
 
 Servings: 6
 
 
+  
 Ingredients
 2
 	lb
@@ -398,18 +450,19 @@ Butter Chicken
 
 
 Image
-no_picture_yet.jpg
+butter_chicken1.jpg
 
 
 
 
-  
+
 
 Prep time: 5 minutes
 Cook time: 15 minutes
 Servings: 4
 
 
+  
 Ingredients
 1
 	Tbsp
@@ -471,7 +524,7 @@ Buttermilk Fried Chicken Tenders
 
 Image
 buttermilk_chicken_tenders.jpg
-
+  
 
 Ingredients
 1
@@ -634,24 +687,6 @@ Ingredients
 	eggs
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 Directions
 1. Chop the onion into small pieces.
 2. In a mixing bowl, combine the chopped onion with the ground beef.
@@ -686,7 +721,9 @@ Spam Cabbage
 
 
 Image
-no_picture_yet.jpg
+spam_cabbage.jpg
+  
+
 
 
 Ingredients
@@ -739,7 +776,7 @@ Kalua Pig Cabbage
 
 Image
 kaluapigcabbage1.jpg
-
+  
 
 Ingredients
 1
@@ -784,7 +821,7 @@ Grandma’s Japanese Mabo Tofu
 
 
 Image
-mabotofu.jpg
+mabo_tofu.jpg
   
 
 Ingredients
@@ -842,7 +879,7 @@ Zippy’s Copycat Chili
 
 
 Image
-no_picture_yet.jpg
+chili.jpg
 
 
   
@@ -926,8 +963,8 @@ Da Bes Hawaiian Beef Stew
 
 
 Image
-no_picture_yet.jpg
-
+beef_stew.jpg
+  
 
 Ingredients
 2
@@ -986,11 +1023,12 @@ Directions
 
 
 
-  
+
 
 done
 
 
+________________
 title
 Beef Stew with Red Wine
 
@@ -1110,8 +1148,8 @@ Three Cheese Eggplant Lasagna
 
 
 Image
-no_picture_yet.jpg
-
+eggplant_lasagna2.jpg
+  
 
 Ingredients
 2
@@ -1189,8 +1227,8 @@ Fettuccine alfredo
 
 
 Image
-no_picture_yet.jpg
-
+alfredo.jpg
+  
 
 Ingredients
 1
@@ -1239,15 +1277,15 @@ Directions
 
 Done
 ________________
-title  
+title
 Spaghetti Sauce
 
 
 Image
-no_picture_yet.jpg
+spaghetti.jpg
 
 
-Servings: 5
+  Servings: 5
 
 
 Ingredients
@@ -1318,10 +1356,10 @@ Stuffed Shells with Ricotta & Spinach
 
 
 Image
-no_picture_yet.jpg
+stuffed_shells.jpg
 
 
-
+  
 
 Servings: 3
 
@@ -1395,8 +1433,10 @@ Homemade Cheeseburger Macaroni
 
 
 Image
-no_picture_yet.jpg
+cheesy_mac.jpg
 
+
+  
 
 Servings: 6
 
@@ -2183,6 +2223,67 @@ Directions
 * Cut the bread crust off.
 * Cut the sandwich in half and eat.
 Enjoy your delicious egg salad sandwich!
+
+
+
+
+done
+________________
+Title
+Avocado Toast
+
+
+Image
+no_picture_yet.jpg
+
+
+
+
+Ingredients
+1
+	
+
+	avocado
+	1
+	tsp
+	Lemon juice
+	1/4
+	tsp
+	Salt 
+	1/4
+	tsp
+	Black pepper
+	1
+	clove
+	Garlic, chopped
+	2
+	slices
+	bread
+	1
+	tsp
+	Olive oil
+	1
+	pinch
+	Red pepper flakes
+	1
+	tsp
+	Balsamic vinegar
+	6
+	
+
+	Cherry tomatoes, chopped
+	
+
+Directions                        
+1. Cut the avocado in half and remove the pit. Scoop out the flesh with a spoon and place it in a medium-sized mixing bowl.
+2. Add the chopped garlic, lemon juice, salt, and pepper to the mixing bowl with the avocado. Use a fork to mash the ingredients together until they form a smooth paste. You want to make sure that there are no large chunks of avocado left.
+3. Toast the slices of bread in a toaster or in the oven until they're golden brown. If using an oven, preheat it to 375°F (190°C) and place the bread directly on the oven rack. Toast for 5-7 minutes, or until the bread is crispy and golden brown.
+4. Spread the avocado mixture evenly on each slice of bread. Use a butter knife or the back of a spoon to spread the mixture from edge to edge, making sure that the bread is evenly covered.
+5. Drizzle the olive oil over the avocado spread on each slice of bread. This will help to keep the toast moist and add some extra flavor.
+6. Top each slice of bread with the chopped tomatoes and sprinkle the red pepper flakes over the top. This will add some color and texture to the toast, as well as a little bit of heat from the red pepper flakes.
+7. Toast the bread again in the oven for a few minutes until the tomatoes are slightly roasted. This step is optional, but it can help to enhance the flavor of the tomatoes and make them slightly sweeter.
+8. Remove the bread from the oven and sprinkle balsamic vinegar over the top of each slice. This will add a tangy flavor and some acidity to the dish.
+9. Serve the toast hot and enjoy! This recipe is perfect for breakfast, lunch, or a light dinner, and can be served on its own or with a side salad.
 
 
 
@@ -3870,6 +3971,57 @@ Directions
 
 done
 ________________
+title
+Taco Seasoning
+
+
+Image
+no_picture_yet.jpg
+
+
+Ingredients
+1
+	Tbsp
+	Chili powder
+	1.5
+	tsp
+	cumin
+	1
+	tsp
+	salt
+	1/4
+	tsp
+	Ground black pepper
+	1/2
+	tsp
+	paprika
+	1/4
+	tsp
+	Garlic powder
+	1/4
+	tsp
+	Onion powder
+	1
+	pinch
+	cayenne
+	1/4
+	tsp
+	Dried oregano
+	
+
+Directions
+1. In a small bowl, mix together all the spices until well combined.
+2. Store the taco seasoning in an airtight container or spice jar until ready to use.
+3. To use, add about 2 tablespoons of the seasoning to 1 pound of ground meat (beef, chicken, turkey, etc.) or vegetables and cook as desired for tacos, burritos, or other Mexican-style dishes.
+done
+________________
+category
+
+
+Desserts
+________________
+
+
 category
 Drinks
 ________________

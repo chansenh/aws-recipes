@@ -10,7 +10,10 @@ import RecipeView from "./components/RecipeView/RecipeView";
 import recipeDB from './data/db.json';
 import { DataStore } from '@aws-amplify/datastore';
 import { Recipes } from './models';
-
+import Amplify from "@aws-amplify/core";
+import awsconfig from "./aws-exports";     
+Amplify.configure(awsconfig);
+DataStore.configure(awsconfig);
 
 
 
@@ -49,6 +52,11 @@ function App() {
       let dataobj = {};
       let ids = [];
       const models = await DataStore.query(Recipes);
+
+      //models.forEach(recipe=>{
+      //  DataStore.delete(recipe)
+      //});
+
       models.forEach((recipe,idx)=>{
         
         dataobj[recipe.id] = {
@@ -183,6 +191,15 @@ function App() {
 
   
   };
+
+  const initdb = async()=>{
+    
+    //<button className='initdb' onClick={initdb}>INIT</button>
+    const models = await DataStore.query(Recipes);
+    models.forEach(recipe=>{
+      console.log(recipe.name)
+    });
+  };
   let jsxoutput = [];
   
   console.log(recipeList)
@@ -192,14 +209,13 @@ function App() {
     
     jsxoutput.push(
       <div>
-      <header className='search-message'>"{searchTerm}"</header>
-      <header className='search-message'>Results {searchResults.length}</header>
-      <button className="reset-button" onClick={reset}>RESET</button>
-    <div className="recipe-search">
-      
-      <RecipePagination key={searchTerm} recipes={recipes} recipeIndices={searchResults} recipeList={recipeList} renderRecipe={renderRecipe} images={images} setCurrentPage={setCurrentPage} page={currentPageNumber} renderCategory={renderCategory}/>
-    </div>
-    </div>)
+        <header className='search-message'>"{searchTerm}"</header>
+        <header className='search-message'>Results {searchResults.length}</header>
+        <button className="reset-button" onClick={reset}>RESET</button>
+        <div className="recipe-search">
+          <RecipePagination key={searchTerm} recipes={recipes} recipeIndices={searchResults} recipeList={recipeList} renderRecipe={renderRecipe} images={images} setCurrentPage={setCurrentPage} page={currentPageNumber} renderCategory={renderCategory}/>
+        </div>
+      </div>)
   }else if(categorySearch.length>0){
     
     jsxoutput.push(
@@ -241,7 +257,7 @@ function App() {
       <div className='content'>
 
 
-      
+        
       
         
       

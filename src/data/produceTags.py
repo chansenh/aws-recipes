@@ -12,7 +12,7 @@ def processInstructions():
         db = json.loads(rawdb)
 
     tags={}
-    undesirable=["large","and","lbs","tsp","tbsp","cup","cups","lb","to","with","or","into","on","can","divided","wo","less","gram","optional","lots","heavy","enough","block","medium","inch","active","quartered","of","whole","weight","finely","peeled","canned","pieces","prepared","for","ml","about","oz","half","small"]
+    undesirable=["large","and","lbs","tsp","tbsp","cup","cups","lb","to","with","or","into","on","can","divided","wo","less","gram","optional","lots","heavy","enough","block","medium","inch","active","quartered","of","whole","weight","finely","peeled","canned","pieces","prepared","for","ml","about","oz","half","small","only","hard","piece","cubed","cans","kernels","kernals","knob","bunches","slides","from","mane","toasted","choppedsliced","roughly","no","halved","granulated","fullbodied"]
     for recipe in db['recipes'].keys():
         print(recipe)
         for ingredient in db['recipes'][recipe]['ingredients']:
