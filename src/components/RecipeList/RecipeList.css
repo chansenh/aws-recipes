@@ -14,6 +14,16 @@
   justify-content: center;
 }
 
+.itemsperpage {
+  
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: right;
+  
+  padding-right: 1rem;
+  margin: 0;
+}
+
 .container {
   background-color:#ffffff;
   display:block;
@@ -23,7 +33,7 @@
 }
 
 .flex-item {
-  background-color:#7887AB;
+  
   flex-grow: 1;
 }
 
@@ -35,4 +45,97 @@
   padding: 1rem;
   margin: 1rem;
   background-color:#f1f3f8;
+}
+/* Style The Dropdown Button */
+.dropbtn {
+  background-color: #2e5772; /*#4CAF50;*/
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  cursor: pointer;
+  right: 0;
+  /*width: 4rem;*/
+  border-radius: 20px 20px 0px 0px;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  right: 0;
+  min-width: 143px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius: 0px 0px 20px 20px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: rgb(231, 244, 255);
+  
+
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.selected {
+  border: solid #006eff;
+  background-color: #e3f3ff;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #58c3f5;
+}
+
+.next-button-image{
+  margin: 1rem 1rem 1rem 1rem;
+  cursor: pointer;
+  width: 4rem;
+}
+
+.next-button-image:hover{
+  margin: 1rem 1rem 1rem 1rem;
+  color:white;
+  border-color: #a3d9ff;
+}
+
+.prev-button-image{
+  margin: 1rem 1rem 1rem 1rem;
+  cursor: pointer;
+  width: 4rem;
+
+}
+
+.prev-button-image:hover{
+  margin: 1rem 1rem 1rem 1rem;
+  color:white;
+  border-color: #a3d9ff;
+}
+
+
+
+.page-number{
+  color: white;
+  
+  padding: 0rem 1rem 0rem 1rem;
+  font-size: 2rem;
 }

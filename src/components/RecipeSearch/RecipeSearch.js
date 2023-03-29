@@ -13,7 +13,7 @@ const RecipeSearch = (props)=>{
     
     useEffect(()=>{
         
-        console.log('search results', props.searchResults)
+        //console.log('search results', props.searchResults)
       },[props.searchResults]);
       //[pagedID,props.recipeIndices]
     

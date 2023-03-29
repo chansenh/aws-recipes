@@ -202,8 +202,7 @@ function App() {
   };
   let jsxoutput = [];
   
-  console.log(recipeList)
-  console.log(recipeIndices)
+
   if(searchResults.length>0){
     
     
