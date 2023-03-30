@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a944bad.css",
-    "main.js": "/static/js/main.121f345e.js",
+    "main.css": "/static/css/main.eeb6936e.css",
+    "main.js": "/static/js/main.6345cc2c.js",
     "static/js/787.3e22468a.chunk.js": "/static/js/787.3e22468a.chunk.js",
     "static/media/crossaint1.png": "/static/media/crossaint1.bf12320ea5a05ed68ff5.png",
     "static/media/wallpaper.png": "/static/media/wallpaper.ccb7f793652355ee3f9c.png",
@@ -14,13 +14,17 @@
     "static/media/mabotofu.jpg": "/static/media/mabotofu.4899d6b242f3ec354803.jpg",
     "static/media/stuffed_shells.jpg": "/static/media/stuffed_shells.9b2022a68a12d563874a.jpg",
     "static/media/meatjun1.jpg": "/static/media/meatjun1.37b4f6c441059ba98789.jpg",
+    "static/media/korokke1.jpg": "/static/media/korokke1.2e63cc1f165fa833d770.jpg",
     "static/media/kaluapigcabbage1.jpg": "/static/media/kaluapigcabbage1.30a5a7256bd9b9ba844b.jpg",
     "static/media/ramen.jpg": "/static/media/ramen.e5fb7e8b1eb7f0aedca0.jpg",
     "static/media/spicy_tantan.jpg": "/static/media/spicy_tantan.e5fb7e8b1eb7f0aedca0.jpg",
+    "static/media/tamagosando.jpg": "/static/media/tamagosando.02891b629b909e0cbd9d.jpg",
     "static/media/breakfast_burrito.jpg": "/static/media/breakfast_burrito.c63c33d4dfed2d3debe4.jpg",
     "static/media/curryhouse1.jpg": "/static/media/curryhouse1.e1b10422a0f4a02c1068.jpg",
     "static/media/locomoco1.jpg": "/static/media/locomoco1.4af521e9df90e47f24ce.jpg",
     "static/media/spaghetti.jpg": "/static/media/spaghetti.2b7a99d5f4b81f69531c.jpg",
+    "static/media/rafute2.jpg": "/static/media/rafute2.97df501d1db5cddf70b5.jpg",
+    "static/media/carrots1.jpg": "/static/media/carrots1.6f0e12fc237dc3a25862.jpg",
     "static/media/ham.jpg": "/static/media/ham.c3de5109e4212a40eb39.jpg",
     "static/media/spam_cabbage.jpg": "/static/media/spam_cabbage.8cce56ffa3c66848db00.jpg",
     "static/media/alfredo.jpg": "/static/media/alfredo.4e5e9a818ebf4e856c00.jpg",
@@ -31,17 +35,18 @@
     "static/media/next_clicked.png": "/static/media/next_clicked.9a3adbf300914453df23.png",
     "static/media/mabo_tofu.jpg": "/static/media/mabo_tofu.984f6a60f00bcb8d9011.jpg",
     "static/media/cooking_logo4.png": "/static/media/cooking_logo4.4483da19ffcf16ea69db.png",
+    "static/media/butternut1.jpg": "/static/media/butternut1.460d36fff19638edad2b.jpg",
     "static/media/beef_stew.jpg": "/static/media/beef_stew.c202b9511764b95f0516.jpg",
     "static/media/prev.png": "/static/media/prev.e01ad42bddf23faacb4e.png",
     "static/media/next.png": "/static/media/next.ec3818cfa332879fa3d0.png",
     "static/media/testimg.svg": "/static/media/testimg.df40ba19b2d95d363ea1.svg",
     "index.html": "/index.html",
-    "main.2a944bad.css.map": "/static/css/main.2a944bad.css.map",
-    "main.121f345e.js.map": "/static/js/main.121f345e.js.map",
+    "main.eeb6936e.css.map": "/static/css/main.eeb6936e.css.map",
+    "main.6345cc2c.js.map": "/static/js/main.6345cc2c.js.map",
     "787.3e22468a.chunk.js.map": "/static/js/787.3e22468a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a944bad.css",
-    "static/js/main.121f345e.js"
+    "static/css/main.eeb6936e.css",
+    "static/js/main.6345cc2c.js"
   ]
 }

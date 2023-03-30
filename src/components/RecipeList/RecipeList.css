@@ -107,26 +107,26 @@
 }
 
 .next-button-image{
-  margin: 1rem 1rem 1rem 1rem;
+  
   cursor: pointer;
   width: 4rem;
 }
 
 .next-button-image:hover{
-  margin: 1rem 1rem 1rem 1rem;
+  
   color:white;
   border-color: #a3d9ff;
 }
 
 .prev-button-image{
-  margin: 1rem 1rem 1rem 1rem;
+  
   cursor: pointer;
   width: 4rem;
 
 }
 
 .prev-button-image:hover{
-  margin: 1rem 1rem 1rem 1rem;
+  
   color:white;
   border-color: #a3d9ff;
 }

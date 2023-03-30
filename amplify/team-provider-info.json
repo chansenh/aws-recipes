@@ -10,6 +10,11 @@
       "StackName": "amplify-amplify09e8a7c8c8c64-staging-225313",
       "StackId": "arn:aws:cloudformation:us-west-1:198894179274:stack/amplify-amplify09e8a7c8c8c64-staging-225313/06ac5b00-afdf-11ed-92e8-02091fead521",
       "AmplifyAppId": "d2yia0f53nxlha"
+    },
+    "categories": {
+      "api": {
+        "MrMrsMeals": {}
+      }
     }
   },
   "dev": {
